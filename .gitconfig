@@ -1,0 +1,6 @@
+[user]
+	email = ma.exp.lau@gmail.com
+	name = lulululaulau
+[core]
+	editor = nvim
+	excludesFile = ~/.gitignore

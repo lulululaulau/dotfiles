@@ -1,0 +1,33 @@
+PLUGINDIR="~/.config/sketchybar/plugins"
+sketchybar --bar position=top height=24 color=0xAA440000 blur_radius=10
+sketchybar --default icon.font="Hack Nerd Font:Bold:14.0" \
+    background.height=21 \
+    background.padding_left=8
+#sketchybar --default color=0xFFFFFFFF
+
+sketchybar --add item clock right \
+    --set clock script="$PLUGINDIR/clock.sh" \
+    --set clock update_freq=10
+
+sketchybar --add item battery right \
+    --set battery script="$PLUGINDIR/battery.sh" \
+    --set battery update_freq=20
+
+sketchybar --add event spotify_change "com.spotify.client.PlaybackStateChanged"
+
+sketchybar --add item spotifyNext q \
+    --set spotifyNext label="󰒭" \
+    --set spotifyNext click_script="osascript -e 'tell application \"Spotify\" to next track'"
+
+sketchybar --add item spotifyPlayPause q \
+    --set spotifyPlayPause script="$PLUGINDIR/spotifyPlayPause.sh" \
+    --set spotifyPlayPause click_script="osascript -e 'tell application \"Spotify\" to playpause'" \
+    --subscribe spotifyPlayPause spotify_change
+
+sketchybar --add item spotifyIndicator q \
+    --set spotifyIndicator script="$PLUGINDIR/spotifyIndicator.sh" \
+    --subscribe spotifyIndicator spotify_change
+
+
+sketchybar --update
+

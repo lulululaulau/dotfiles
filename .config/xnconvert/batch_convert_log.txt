@@ -1,0 +1,4164 @@
+Started at: 10/6/24 10:16 PM
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.03 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani : skipped, file already exists!
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani : skipped, file already exists!
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.03 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 324 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 337 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 333 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 340 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 321 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 340 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 332 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 335 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 330 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 439 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 417 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 411 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 346 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 387 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 431 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 439 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 427 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 437 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 365 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 416 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 441 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 449 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 425 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 442 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 411 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 443 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 449 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 459 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 397 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 434 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 451 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 421 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 377 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 280 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 360 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 375 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 392 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 387 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 301 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.36 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 573 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 519 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 479 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 466 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 551 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 559 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 573 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 502 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 487 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 487 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 563 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 570 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.39 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.32 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.39 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.34 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (1) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (2) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (3) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (4) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (5) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (6) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (7) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (8) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (9) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (10) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (11) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (12) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 892 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1021 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.07 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.05 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.05 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.07 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.32 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.09 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.11 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 983 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1014 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 983 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1014 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 377 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 324 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 352 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 406 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 421 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 391 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 352 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 432 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 434 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.37 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+
+--------------------------------------------------------------------------------------------
+Saving error(s):
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani
+
+--------------------------------------------------------------------------------------------
+
+
+Input files: 17
+Extracted pages: 204
+New files: 17
+Overwritten: 183
+Skipped: 2
+
+Total input file size: 5.21 MiB
+Total output file size: 183.80 KiB
+File size ratio: -96%
+
+Total Duration: 35 second(s)
+
+Finished at: 10/6/24 10:16 PM
+
+Started at: 10/6/24 10:23 PM
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.03 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.03 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate_result.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 324 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 337 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 333 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 340 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 321 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 340 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 332 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 335 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 330 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy_result.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 439 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 417 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 411 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 346 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 387 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 431 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 439 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 427 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 437 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 365 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 416 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1_result.png : saved
+		26.39 KiB -> 441 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 449 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 425 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 442 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 411 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 443 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 449 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 459 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 397 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 434 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2_result.png : saved
+		26.39 KiB -> 451 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help_result.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 421 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 377 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 280 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 360 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 375 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 392 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 387 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 301 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.36 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 573 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 519 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 479 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 466 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 551 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 559 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 573 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 502 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 487 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 487 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 563 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move_result.png : saved
+		26.39 KiB -> 570 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.39 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.32 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.39 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.34 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal_result.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (1) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (2) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (3) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (4) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (5) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (6) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (7) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (8) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (9) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (10) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (11) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (12) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person_result.png : saved
+		26.81 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 892 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1021 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.07 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.05 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.05 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin_result.png : saved
+		26.39 KiB -> 1.07 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.32 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision_result.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.09 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.11 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text_result.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 983 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1014 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 983 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1014 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable_result.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 377 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 324 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 352 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 406 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 421 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 391 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 352 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 432 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical_result.png : saved
+		26.39 KiB -> 434 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.37 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working_result.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+
+Input files: 17
+Extracted pages: 204
+New files: 17
+Overwritten: 187
+
+Total input file size: 5.26 MiB
+Total output file size: 185.86 KiB
+File size ratio: -96%
+
+Total Duration: 2 second(s)
+
+Finished at: 10/6/24 10:23 PM
+
+Started at: 10/6/24 10:26 PM
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_1.png : saved
+		26.39 KiB -> 1.03 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_2.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_3.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_4.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_5.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_6.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_7.png : saved
+		26.39 KiB -> 1.03 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_8.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_9.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_10.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_11.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_1.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_2.png : saved
+		26.39 KiB -> 324 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_3.png : saved
+		26.39 KiB -> 337 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_4.png : saved
+		26.39 KiB -> 333 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_5.png : saved
+		26.39 KiB -> 340 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_6.png : saved
+		26.39 KiB -> 321 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_7.png : saved
+		26.39 KiB -> 340 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_8.png : saved
+		26.39 KiB -> 332 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_9.png : saved
+		26.39 KiB -> 335 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_10.png : saved
+		26.39 KiB -> 330 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_11.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result.png : saved
+		26.39 KiB -> 439 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_1.png : saved
+		26.39 KiB -> 417 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_2.png : saved
+		26.39 KiB -> 411 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_3.png : saved
+		26.39 KiB -> 346 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_4.png : saved
+		26.39 KiB -> 387 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_5.png : saved
+		26.39 KiB -> 431 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_6.png : saved
+		26.39 KiB -> 439 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_7.png : saved
+		26.39 KiB -> 427 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_8.png : saved
+		26.39 KiB -> 437 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_9.png : saved
+		26.39 KiB -> 365 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_10.png : saved
+		26.39 KiB -> 416 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_11.png : saved
+		26.39 KiB -> 441 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result.png : saved
+		26.39 KiB -> 449 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_1.png : saved
+		26.39 KiB -> 425 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_2.png : saved
+		26.39 KiB -> 442 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_3.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_4.png : saved
+		26.39 KiB -> 411 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_5.png : saved
+		26.39 KiB -> 443 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_6.png : saved
+		26.39 KiB -> 449 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_7.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_8.png : saved
+		26.39 KiB -> 459 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_9.png : saved
+		26.39 KiB -> 397 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_10.png : saved
+		26.39 KiB -> 434 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_11.png : saved
+		26.39 KiB -> 451 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_1.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_2.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_3.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_4.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_5.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_6.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_7.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_8.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_9.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_10.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_11.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_1.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_2.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_3.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_4.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_5.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_6.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_7.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_8.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_9.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_10.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_11.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_1.png : saved
+		26.39 KiB -> 421 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_2.png : saved
+		26.39 KiB -> 377 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_3.png : saved
+		26.39 KiB -> 280 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_4.png : saved
+		26.39 KiB -> 360 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_5.png : saved
+		26.39 KiB -> 375 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_6.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_7.png : saved
+		26.39 KiB -> 392 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_8.png : saved
+		26.39 KiB -> 387 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_9.png : saved
+		26.39 KiB -> 301 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_10.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_11.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result.png : saved
+		26.39 KiB -> 1.36 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_1.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_2.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_3.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_4.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_5.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_6.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_7.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_8.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_9.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_10.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_11.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result.png : saved
+		26.39 KiB -> 573 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_1.png : saved
+		26.39 KiB -> 519 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_2.png : saved
+		26.39 KiB -> 479 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_3.png : saved
+		26.39 KiB -> 466 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_4.png : saved
+		26.39 KiB -> 551 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_5.png : saved
+		26.39 KiB -> 559 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_6.png : saved
+		26.39 KiB -> 573 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_7.png : saved
+		26.39 KiB -> 502 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_8.png : saved
+		26.39 KiB -> 487 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_9.png : saved
+		26.39 KiB -> 487 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_10.png : saved
+		26.39 KiB -> 563 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_11.png : saved
+		26.39 KiB -> 570 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result.png : saved
+		26.39 KiB -> 1.39 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_1.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_2.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_3.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_4.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_5.png : saved
+		26.39 KiB -> 1.32 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_6.png : saved
+		26.39 KiB -> 1.39 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_7.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_8.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_9.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_10.png : saved
+		26.39 KiB -> 1.34 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_11.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (1) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (2) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_1.png : saved
+		26.81 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (3) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_2.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (4) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_3.png : saved
+		26.81 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (5) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_4.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (6) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_5.png : saved
+		26.81 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (7) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_6.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (8) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_7.png : saved
+		26.81 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (9) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_8.png : saved
+		26.81 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (10) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_9.png : saved
+		26.81 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (11) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_10.png : saved
+		26.81 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (12) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_11.png : saved
+		26.81 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_1.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_2.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_3.png : saved
+		26.39 KiB -> 892 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_4.png : saved
+		26.39 KiB -> 1021 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_5.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_6.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_7.png : saved
+		26.39 KiB -> 1.07 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_8.png : saved
+		26.39 KiB -> 1.05 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_9.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_10.png : saved
+		26.39 KiB -> 1.05 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_11.png : saved
+		26.39 KiB -> 1.07 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_1.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_2.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_3.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_4.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_5.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_6.png : saved
+		26.39 KiB -> 1.32 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_7.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_8.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_9.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_10.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_11.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_1.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_2.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_3.png : saved
+		26.39 KiB -> 1.09 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_4.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_5.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_6.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_7.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_8.png : saved
+		26.39 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_9.png : saved
+		26.39 KiB -> 1.11 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_10.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_11.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_1.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_2.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_3.png : saved
+		26.39 KiB -> 983 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_4.png : saved
+		26.39 KiB -> 1014 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_5.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_6.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_7.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_8.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_9.png : saved
+		26.39 KiB -> 983 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_10.png : saved
+		26.39 KiB -> 1014 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_11.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_1.png : saved
+		26.39 KiB -> 377 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_2.png : saved
+		26.39 KiB -> 324 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_3.png : saved
+		26.39 KiB -> 352 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_4.png : saved
+		26.39 KiB -> 406 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_5.png : saved
+		26.39 KiB -> 421 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_6.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_7.png : saved
+		26.39 KiB -> 391 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_8.png : saved
+		26.39 KiB -> 352 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_9.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_10.png : saved
+		26.39 KiB -> 432 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_11.png : saved
+		26.39 KiB -> 434 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_1.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_2.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_3.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_4.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_5.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_6.png : saved
+		26.39 KiB -> 1.37 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_7.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_8.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_9.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_10.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_11.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+
+Input files: 17
+Extracted pages: 204
+New files: 204
+
+Total input file size: 5.26 MiB
+Total output file size: 185.86 KiB
+File size ratio: -96%
+
+Total Duration: 0 second(s)
+
+Finished at: 10/6/24 10:26 PM
+
+Started at: 10/6/24 11:06 PM
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_1.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_2.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_3.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_4.png : saved
+		26.39 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_5.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_6.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_7.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_8.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_9.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_10.png : saved
+		26.39 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_11.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result.png : saved
+		26.39 KiB -> 994 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_1.png : saved
+		26.39 KiB -> 994 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_2.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_3.png : saved
+		26.39 KiB -> 1002 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_4.png : saved
+		26.39 KiB -> 1002 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_5.png : saved
+		26.39 KiB -> 1005 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_6.png : saved
+		26.39 KiB -> 1004 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_7.png : saved
+		26.39 KiB -> 1008 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_8.png : saved
+		26.39 KiB -> 1004 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_9.png : saved
+		26.39 KiB -> 1006 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_10.png : saved
+		26.39 KiB -> 997 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_11.png : saved
+		26.39 KiB -> 994 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result.png : saved
+		26.39 KiB -> 991 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_1.png : saved
+		26.39 KiB -> 984 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_2.png : saved
+		26.39 KiB -> 979 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_3.png : saved
+		26.39 KiB -> 974 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_4.png : saved
+		26.39 KiB -> 982 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_5.png : saved
+		26.39 KiB -> 992 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_6.png : saved
+		26.39 KiB -> 991 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_7.png : saved
+		26.39 KiB -> 984 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_8.png : saved
+		26.39 KiB -> 981 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_9.png : saved
+		26.39 KiB -> 978 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_10.png : saved
+		26.39 KiB -> 989 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_11.png : saved
+		26.39 KiB -> 994 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result.png : saved
+		26.39 KiB -> 981 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_1.png : saved
+		26.39 KiB -> 978 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_2.png : saved
+		26.39 KiB -> 977 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_3.png : saved
+		26.39 KiB -> 974 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_4.png : saved
+		26.39 KiB -> 979 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_5.png : saved
+		26.39 KiB -> 984 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_6.png : saved
+		26.39 KiB -> 981 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_7.png : saved
+		26.39 KiB -> 982 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_8.png : saved
+		26.39 KiB -> 985 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_9.png : saved
+		26.39 KiB -> 977 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_10.png : saved
+		26.39 KiB -> 985 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_11.png : saved
+		26.39 KiB -> 985 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_1.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_2.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_3.png : saved
+		26.39 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_4.png : saved
+		26.39 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_5.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_6.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_7.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_8.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_9.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_10.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_11.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_1.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_2.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_3.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_4.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_5.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_6.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_7.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_8.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_9.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_10.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_11.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result.png : saved
+		26.39 KiB -> 956 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_1.png : saved
+		26.39 KiB -> 960 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_2.png : saved
+		26.39 KiB -> 954 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_3.png : saved
+		26.39 KiB -> 940 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_4.png : saved
+		26.39 KiB -> 948 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_5.png : saved
+		26.39 KiB -> 956 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_6.png : saved
+		26.39 KiB -> 956 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_7.png : saved
+		26.39 KiB -> 962 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_8.png : saved
+		26.39 KiB -> 960 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_9.png : saved
+		26.39 KiB -> 947 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_10.png : saved
+		26.39 KiB -> 956 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_11.png : saved
+		26.39 KiB -> 959 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_1.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_2.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_3.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_4.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_5.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_6.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_7.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_8.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_9.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_10.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_11.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result.png : saved
+		26.39 KiB -> 1019 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_1.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_2.png : saved
+		26.39 KiB -> 980 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_3.png : saved
+		26.39 KiB -> 1002 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_4.png : saved
+		26.39 KiB -> 1020 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_5.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_6.png : saved
+		26.39 KiB -> 1019 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_7.png : saved
+		26.39 KiB -> 1002 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_8.png : saved
+		26.39 KiB -> 986 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_9.png : saved
+		26.39 KiB -> 1008 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_10.png : saved
+		26.39 KiB -> 1.00 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_11.png : saved
+		26.39 KiB -> 1024 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_1.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_2.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_3.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_4.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_5.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_6.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_7.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_8.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_9.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_10.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_11.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (1) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result.png : saved
+		26.81 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (2) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_1.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (3) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_2.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (4) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_3.png : saved
+		26.81 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (5) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_4.png : saved
+		26.81 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (6) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_5.png : saved
+		26.81 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (7) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_6.png : saved
+		26.81 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (8) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_7.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (9) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_8.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (10) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_9.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (11) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_10.png : saved
+		26.81 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (12) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_11.png : saved
+		26.81 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_1.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_2.png : saved
+		26.39 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_3.png : saved
+		26.39 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_4.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_5.png : saved
+		26.39 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_6.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_7.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_8.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_9.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_10.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_11.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_1.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_2.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_3.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_4.png : saved
+		26.39 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_5.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_6.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_7.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_8.png : saved
+		26.39 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_9.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_10.png : saved
+		26.39 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_11.png : saved
+		26.39 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result.png : saved
+		26.39 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_1.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_2.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_3.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_4.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_5.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_6.png : saved
+		26.39 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_7.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_8.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_9.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_10.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_11.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_1.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_2.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_3.png : saved
+		26.39 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_4.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_5.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_6.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_7.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_8.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_9.png : saved
+		26.39 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_10.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_11.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result.png : saved
+		26.39 KiB -> 974 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_1.png : saved
+		26.39 KiB -> 969 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_2.png : saved
+		26.39 KiB -> 960 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_3.png : saved
+		26.39 KiB -> 957 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_4.png : saved
+		26.39 KiB -> 969 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_5.png : saved
+		26.39 KiB -> 974 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_6.png : saved
+		26.39 KiB -> 974 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_7.png : saved
+		26.39 KiB -> 970 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_8.png : saved
+		26.39 KiB -> 963 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_9.png : saved
+		26.39 KiB -> 963 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_10.png : saved
+		26.39 KiB -> 977 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_11.png : saved
+		26.39 KiB -> 974 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_1.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_2.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_3.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_4.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_5.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_6.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_7.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_8.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_9.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_10.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_11.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+
+Input files: 17
+Extracted pages: 204
+New files: 204
+
+Total input file size: 5.26 MiB
+Total output file size: 228.14 KiB
+File size ratio: -95%
+
+Total Duration: 0 second(s)
+
+Finished at: 10/6/24 11:06 PM
+
+Started at: 10/6/24 11:10 PM
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_1.png : saved
+		26.39 KiB -> 1.03 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_2.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_3.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_4.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_5.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_6.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_7.png : saved
+		26.39 KiB -> 1.03 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_8.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_9.png : saved
+		26.39 KiB -> 1000 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_10.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Alternate.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Alternate_result_11.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_1.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_2.png : saved
+		26.39 KiB -> 324 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_3.png : saved
+		26.39 KiB -> 337 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_4.png : saved
+		26.39 KiB -> 333 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_5.png : saved
+		26.39 KiB -> 340 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_6.png : saved
+		26.39 KiB -> 321 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_7.png : saved
+		26.39 KiB -> 340 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_8.png : saved
+		26.39 KiB -> 332 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_9.png : saved
+		26.39 KiB -> 335 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_10.png : saved
+		26.39 KiB -> 330 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Busy.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Busy_result_11.png : saved
+		26.39 KiB -> 319 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result.png : saved
+		26.39 KiB -> 439 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_1.png : saved
+		26.39 KiB -> 417 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_2.png : saved
+		26.39 KiB -> 411 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_3.png : saved
+		26.39 KiB -> 346 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_4.png : saved
+		26.39 KiB -> 387 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_5.png : saved
+		26.39 KiB -> 431 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_6.png : saved
+		26.39 KiB -> 439 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_7.png : saved
+		26.39 KiB -> 427 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_8.png : saved
+		26.39 KiB -> 437 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_9.png : saved
+		26.39 KiB -> 365 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_10.png : saved
+		26.39 KiB -> 416 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal1.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal1_result_11.png : saved
+		26.39 KiB -> 441 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result.png : saved
+		26.39 KiB -> 449 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_1.png : saved
+		26.39 KiB -> 425 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_2.png : saved
+		26.39 KiB -> 442 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_3.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_4.png : saved
+		26.39 KiB -> 411 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_5.png : saved
+		26.39 KiB -> 443 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_6.png : saved
+		26.39 KiB -> 449 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_7.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_8.png : saved
+		26.39 KiB -> 459 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_9.png : saved
+		26.39 KiB -> 397 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_10.png : saved
+		26.39 KiB -> 434 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Diagonal2.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Diagonal2_result_11.png : saved
+		26.39 KiB -> 451 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_1.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_2.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_3.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_4.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_5.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_6.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_7.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_8.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_9.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_10.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Handwriting.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Handwriting_result_11.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_1.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_2.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_3.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_4.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_5.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_6.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_7.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_8.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_9.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_10.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Help.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Help_result_11.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_1.png : saved
+		26.39 KiB -> 421 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_2.png : saved
+		26.39 KiB -> 377 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_3.png : saved
+		26.39 KiB -> 280 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_4.png : saved
+		26.39 KiB -> 360 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_5.png : saved
+		26.39 KiB -> 375 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_6.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_7.png : saved
+		26.39 KiB -> 392 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_8.png : saved
+		26.39 KiB -> 387 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_9.png : saved
+		26.39 KiB -> 301 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_10.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Horizontal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Horizontal_result_11.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result.png : saved
+		26.39 KiB -> 1.36 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_1.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_2.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_3.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_4.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_5.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_6.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_7.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_8.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_9.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_10.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Link.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Link_result_11.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result.png : saved
+		26.39 KiB -> 573 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_1.png : saved
+		26.39 KiB -> 519 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_2.png : saved
+		26.39 KiB -> 479 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_3.png : saved
+		26.39 KiB -> 466 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_4.png : saved
+		26.39 KiB -> 551 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_5.png : saved
+		26.39 KiB -> 559 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_6.png : saved
+		26.39 KiB -> 573 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_7.png : saved
+		26.39 KiB -> 502 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_8.png : saved
+		26.39 KiB -> 487 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_9.png : saved
+		26.39 KiB -> 487 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_10.png : saved
+		26.39 KiB -> 563 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Move.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Move_result_11.png : saved
+		26.39 KiB -> 570 Bytes (-97%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result.png : saved
+		26.39 KiB -> 1.39 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_1.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_2.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_3.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_4.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_5.png : saved
+		26.39 KiB -> 1.32 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_6.png : saved
+		26.39 KiB -> 1.39 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_7.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_8.png : saved
+		26.39 KiB -> 1.33 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_9.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_10.png : saved
+		26.39 KiB -> 1.34 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Normal.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Normal_result_11.png : saved
+		26.39 KiB -> 1.32 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (1) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (2) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_1.png : saved
+		26.81 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (3) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_2.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (4) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_3.png : saved
+		26.81 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (5) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_4.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (6) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_5.png : saved
+		26.81 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (7) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_6.png : saved
+		26.81 KiB -> 1.20 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (8) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_7.png : saved
+		26.81 KiB -> 1.15 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (9) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_8.png : saved
+		26.81 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (10) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_9.png : saved
+		26.81 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (11) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_10.png : saved
+		26.81 KiB -> 1.22 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Person.ani (12) 32x33x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Person_result_11.png : saved
+		26.81 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_1.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_2.png : saved
+		26.39 KiB -> 1.02 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_3.png : saved
+		26.39 KiB -> 892 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_4.png : saved
+		26.39 KiB -> 1021 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_5.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_6.png : saved
+		26.39 KiB -> 1.06 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_7.png : saved
+		26.39 KiB -> 1.07 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_8.png : saved
+		26.39 KiB -> 1.05 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_9.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_10.png : saved
+		26.39 KiB -> 1.05 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Pin.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Pin_result_11.png : saved
+		26.39 KiB -> 1.07 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_1.png : saved
+		26.39 KiB -> 1.17 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_2.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_3.png : saved
+		26.39 KiB -> 1.24 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_4.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_5.png : saved
+		26.39 KiB -> 1.25 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_6.png : saved
+		26.39 KiB -> 1.32 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_7.png : saved
+		26.39 KiB -> 1.21 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_8.png : saved
+		26.39 KiB -> 1.23 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_9.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_10.png : saved
+		26.39 KiB -> 1.19 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Precision.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Precision_result_11.png : saved
+		26.39 KiB -> 1.18 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_1.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_2.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_3.png : saved
+		26.39 KiB -> 1.09 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_4.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_5.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_6.png : saved
+		26.39 KiB -> 1.16 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_7.png : saved
+		26.39 KiB -> 1.13 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_8.png : saved
+		26.39 KiB -> 1.12 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_9.png : saved
+		26.39 KiB -> 1.11 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_10.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Text.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Text_result_11.png : saved
+		26.39 KiB -> 1.14 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_1.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_2.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_3.png : saved
+		26.39 KiB -> 983 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_4.png : saved
+		26.39 KiB -> 1014 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_5.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_6.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_7.png : saved
+		26.39 KiB -> 1.01 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_8.png : saved
+		26.39 KiB -> 1.04 KiB (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_9.png : saved
+		26.39 KiB -> 983 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_10.png : saved
+		26.39 KiB -> 1014 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Unavailable.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Unavailable_result_11.png : saved
+		26.39 KiB -> 1022 Bytes (-96%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_1.png : saved
+		26.39 KiB -> 377 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_2.png : saved
+		26.39 KiB -> 324 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_3.png : saved
+		26.39 KiB -> 352 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_4.png : saved
+		26.39 KiB -> 406 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_5.png : saved
+		26.39 KiB -> 421 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_6.png : saved
+		26.39 KiB -> 435 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_7.png : saved
+		26.39 KiB -> 391 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_8.png : saved
+		26.39 KiB -> 352 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_9.png : saved
+		26.39 KiB -> 374 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_10.png : saved
+		26.39 KiB -> 432 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Vertical.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Vertical_result_11.png : saved
+		26.39 KiB -> 434 Bytes (-98%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (1) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result.png : saved
+		26.39 KiB -> 1.35 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (2) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_1.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (3) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_2.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (4) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_3.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (5) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_4.png : saved
+		26.39 KiB -> 1.27 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (6) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_5.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (7) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_6.png : saved
+		26.39 KiB -> 1.37 KiB (-94%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (8) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_7.png : saved
+		26.39 KiB -> 1.28 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (9) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_8.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (10) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_9.png : saved
+		26.39 KiB -> 1.31 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (11) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_10.png : saved
+		26.39 KiB -> 1.26 KiB (-95%)
+
+/Users/llau/Downloads/ChangliCursor/aniUnzip/Working.ani (12) 32x32x8 : loaded
+/Users/llau/Downloads/ChangliCursor/aniUnzip/out/Working_result_11.png : saved
+		26.39 KiB -> 1.29 KiB (-95%)
+
+
+Input files: 17
+Extracted pages: 204
+New files: 204
+
+Total input file size: 5.26 MiB
+Total output file size: 185.86 KiB
+File size ratio: -96%
+
+Total Duration: 0 second(s)
+
+Finished at: 10/6/24 11:10 PM
+
