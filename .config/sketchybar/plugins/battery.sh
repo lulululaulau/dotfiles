@@ -10,4 +10,5 @@ esac
 pmset -g batt | grep 'AC Power' > /dev/null && ICON="󰂄"
 
 sketchybar --set $NAME icon="$ICON"
+sketchybar --set $NAME icon.padding_right=5
 sketchybar --set $NAME label="$LABEL"
