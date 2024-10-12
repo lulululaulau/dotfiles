@@ -26,8 +26,13 @@ sketchybar --add item spotifyPlayPause q \
 
 sketchybar --add item spotifyIndicator q \
     --set spotifyIndicator script="$PLUGINDIR/spotifyIndicator.sh" \
+    --set spotifyIndicator click_script="$PLUGINDIR/spotifyShowHide.sh" \
     --subscribe spotifyIndicator spotify_change
 
+sketchybar --add item spotifyShowHide q \
+    --set spotifyShowHide label="" \
+    --set spotifyShowHide drawing=off \
+    --set spotifyShowHide click_script="$PLUGINDIR/spotifyShowHide.sh"
 
 sketchybar --update
 
