@@ -70,7 +70,7 @@ ZSH_THEME="mgutz"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git macos python safe-paste sudo fzf web-search)
+plugins=(git macos safe-paste sudo)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -100,16 +100,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-VI_MODE_SET_CURSOR=true
-
-
-# CUSTOM STUFF
-
-#alias fclear="clear; clear"
 alias python="python3"
 alias pip="pip3"
 export PATH=/Users/llau/Scripts:$PATH
 export PATH=/Users/llau/.local/bin:$PATH
 export PATH=/Users/llau/.local/bin/nvim-macos/bin:$PATH
-alias sptfp="spotify pause"
-alias sptfs="spotify status"
