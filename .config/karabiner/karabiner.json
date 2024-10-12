@@ -41,7 +41,45 @@
                             },
                             {
                                 "from": {
+                                    "key_code": "v",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_option",
+                                            "left_shift"
+                                        ],
+                                        "optional": []
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "modifiers": [],
+                                        "shell_command": "/opt/homebrew/bin/yabai -m window --focus north"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
                                     "key_code": "right_arrow",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_option",
+                                            "left_shift"
+                                        ],
+                                        "optional": []
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "modifiers": [],
+                                        "shell_command": "/opt/homebrew/bin/yabai -m window --focus east"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "p",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_option",
@@ -79,7 +117,45 @@
                             },
                             {
                                 "from": {
+                                    "key_code": "c",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_option",
+                                            "left_shift"
+                                        ],
+                                        "optional": []
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "modifiers": [],
+                                        "shell_command": "/opt/homebrew/bin/yabai -m window --focus south"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
                                     "key_code": "left_arrow",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_option",
+                                            "left_shift"
+                                        ],
+                                        "optional": []
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "modifiers": [],
+                                        "shell_command": "/opt/homebrew/bin/yabai -m window --focus west"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "j",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_option",
@@ -226,7 +302,45 @@
                             },
                             {
                                 "from": {
+                                    "key_code": "v",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_option",
+                                            "left_control"
+                                        ],
+                                        "optional": []
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "modifiers": [],
+                                        "shell_command": "/opt/homebrew/bin/yabai -m window --warp north"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
                                     "key_code": "right_arrow",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_option",
+                                            "left_control"
+                                        ],
+                                        "optional": []
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "modifiers": [],
+                                        "shell_command": "/opt/homebrew/bin/yabai -m window --warp east"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "p",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_option",
@@ -264,7 +378,45 @@
                             },
                             {
                                 "from": {
+                                    "key_code": "c",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_option",
+                                            "left_control"
+                                        ],
+                                        "optional": []
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "modifiers": [],
+                                        "shell_command": "/opt/homebrew/bin/yabai -m window --warp south"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
                                     "key_code": "left_arrow",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_option",
+                                            "left_control"
+                                        ],
+                                        "optional": []
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "modifiers": [],
+                                        "shell_command": "/opt/homebrew/bin/yabai -m window --warp west"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "j",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_option",
@@ -531,7 +683,7 @@
                         ]
                     },
                     {
-                        "description": "Maps enter to left control when held",
+                        "description": "enter to left control when held",
                         "manipulators": [
                             {
                                 "from": {
