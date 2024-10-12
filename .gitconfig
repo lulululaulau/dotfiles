@@ -3,4 +3,4 @@
 	name = lulululaulau
 [core]
 	editor = nvim
-	excludesFile = ~/.gitignore
+	excludesFile = ~/.globalgitignore
