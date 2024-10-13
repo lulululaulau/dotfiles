@@ -13,7 +13,7 @@ return {
 
 s({trig = "defaults"},
   {
-    t({"\\documentclass[11pt]{article}"}),
+    t({"\\documentclass[11pt]{article}", ""}),
     t({"\\usepackage{graphicx}", ""}),
     t({"\\usepackage[margin = 1in]{geometry}", ""}),
     t({"\\usepackage{amssymb}", ""}),
@@ -44,7 +44,10 @@ s({trig = "defaults"},
     i(8, "Lewis Lau"),
     t({"}", "\\date{"}),
     i(9),
-    t({"}", ""})
+    t({"}", "", ""}),
+    t({"\\begin{document}", "", ""}),
+    t({"\\maketitle", "", "", ""}),
+    t({"\\end{document}", ""})
   }
 ),
 
