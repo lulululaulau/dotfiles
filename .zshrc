@@ -102,6 +102,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias python="python3"
 alias pip="pip3"
+alias fzfz="cd $(find ~/Documents -type d | fzf)"
 export PATH=/Users/llau/Scripts:$PATH
 export PATH=/Users/llau/.local/bin:$PATH
 export PATH=/Users/llau/.local/bin/nvim-macos/bin:$PATH
