@@ -103,6 +103,7 @@ source $ZSH/oh-my-zsh.sh
 alias python="python3"
 alias pip="pip3"
 alias fzfc='cd $(find ~/Documents -type d | fzf)'
+alias school='cd ~/Documents/School/$(ls ~/Documents/School | sort -r | head -n 1)'
 export PATH=/Users/llau/Scripts:$PATH
 export PATH=/Users/llau/.local/bin:$PATH
 export PATH=/Users/llau/.local/bin/nvim-macos/bin:$PATH
