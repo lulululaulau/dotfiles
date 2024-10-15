@@ -7,11 +7,11 @@ sketchybar --default icon.font="Hack Nerd Font:Bold:14.0" \
 
 sketchybar --add item clock right \
     --set clock script="$PLUGINDIR/clock.sh" \
-    --set clock update_freq=10
+    --set clock update_freq=5
 
 sketchybar --add item battery right \
     --set battery script="$PLUGINDIR/battery.sh" \
-    --set battery update_freq=20
+    --set battery update_freq=60
 
 sketchybar --add event spotify_change "com.spotify.client.PlaybackStateChanged"
 
