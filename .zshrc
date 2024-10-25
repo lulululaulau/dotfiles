@@ -104,5 +104,6 @@ alias python="python3"
 alias pip="pip3"
 alias fzfc='cd $(find ~/Documents -type d | fzf)'
 alias school='cd ~/Documents/School/$(ls ~/Documents/School | sort -r | head -n 1)'
+alias gittop='cd $(git rev-parse --git-dir); ..'
 export PATH=/Users/llau/Scripts:$PATH
 export PATH=/Users/llau/.local/bin:$PATH
