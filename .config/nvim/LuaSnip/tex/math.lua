@@ -54,4 +54,12 @@ s({trig = "deg"},
   {t("^\\circ")}
 ),
 
+s({trig = "eqby"},
+  {
+    t("\\overset{\\text{"),
+    i(1),
+    t("}}{=}")
+  }
+),
+
 }
