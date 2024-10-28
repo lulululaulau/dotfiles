@@ -15,3 +15,5 @@ execute 'source ' . config_dir . '/config/statusline.vim'
 lua require('typst')
 
 lua require('cmp_config')
+
+lua require('linter')

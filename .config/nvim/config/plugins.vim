@@ -21,6 +21,7 @@ Plug 'kaarmu/typst.vim'
 Plug 'nvarner/typst-lsp'
 Plug 'niuiic/core.nvim'
 Plug 'niuiic/typst-preview.nvim'
+Plug 'mfussenegger/nvim-lint'
 call plug#end()
 
 filetype plugin on
