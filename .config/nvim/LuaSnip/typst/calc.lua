@@ -25,7 +25,7 @@ s({trig = "diff"},
   }
 ),
 
-s({trig = "pdiff"},
+s({trig = "pd"},
   {
     t("(diff "),
     i(1),
