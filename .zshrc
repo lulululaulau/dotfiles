@@ -108,5 +108,7 @@ alias fzd='cd $(find ~/Documents -type d | fzf)'
 alias fzh='cd $(find . -type d | fzf)'
 alias school='cd ~/Documents/School/$(ls ~/Documents/School | sort -r | head -n 1)'
 alias gittop='cd $(git rev-parse --git-dir); ..'
+alias von='python -m von'
+alias actiave='source bin/activate'
 export PATH=/Users/llau/Scripts:$PATH
 export PATH=/Users/llau/.local/bin:$PATH
