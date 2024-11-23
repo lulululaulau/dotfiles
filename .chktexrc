@@ -1,5 +1,14 @@
-CmdLine
-{
+CmdLine {
+-n1
 -n3
 -n11
+-n25
+}
+
+VerbEnvir {
+pgfpicture
+tikzpicture
+circuitikz
+asy
+asydef
 }
