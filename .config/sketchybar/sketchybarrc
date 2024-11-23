@@ -14,6 +14,12 @@ sketchybar --add item battery right \
     --set battery script="$PLUGINDIR/battery.sh" \
     --set battery update_freq=60
 
+sketchybar --add event windowFlagChanged
+
+sketchybar --add item windowFlag right \
+    --set windowFlag script="$PLUGINDIR/windowFlag.sh" \
+    --subscribe windowFlag windowFlagChanged
+
 sketchybar --add event spotify_change "com.spotify.client.PlaybackStateChanged"
 
 sketchybar --add item spotifyNext q \
@@ -39,3 +45,4 @@ sketchybar --add item spotifyShowHide q \
 
 sketchybar --update
 
+# vim: ft=sh
