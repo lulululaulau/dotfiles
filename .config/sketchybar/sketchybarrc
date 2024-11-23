@@ -24,13 +24,13 @@ sketchybar --add item spotifyPlayPause q \
     --set spotifyPlayPause script="$PLUGINDIR/spotifyPlayPause.sh" \
     --set spotifyPlayPause click_script="osascript -e 'tell application \"Spotify\" to playpause'" \
     --subscribe spotifyPlayPause spotify_change \
-    --set spotifyPlayPause update_freq 60
+    --set spotifyPlayPause update_freq=60
 
 sketchybar --add item spotifyIndicator q \
     --set spotifyIndicator script="$PLUGINDIR/spotifyIndicator.sh" \
     --set spotifyIndicator click_script="$PLUGINDIR/spotifyShowHide.sh" \
     --subscribe spotifyIndicator spotify_change \
-    --set spotifyIndicator update_freq 60
+    --set spotifyIndicator update_freq=60
 
 sketchybar --add item spotifyShowHide q \
     --set spotifyShowHide label="" \
