@@ -5,9 +5,9 @@ c.confirm_quit=["downloads"]
 c.downloads.position="bottom"
 c.tabs.width="12%"
 c.url.searchengines={"DEFAULT":"https://google.com/search?q={}"}
-c.url.default_page="https://google.com/"
+c.url.default_page="raw.githubusercontent.com/qutebrowser/qutebrowser/main/doc/img/cheatsheet-big.png"
 c.tabs.last_close="close"
-c.tabs.select_on_remove="prev"
+c.tabs.select_on_remove="next"
 c.tabs.title.format="{audio}{relative_index}: {current_title}"
 c.tabs.new_position.unrelated="next"
 c.editor.command=["/opt/homebrew/bin/vimr", "--line", "{line}", "{file}"]
