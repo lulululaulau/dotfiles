@@ -1,5 +1,5 @@
 PLUGINDIR="~/.config/sketchybar/plugins"
-sketchybar --bar position=top height=24 color=0x00000000 blur_radius=10
+sketchybar --bar position=top height=24 color=0xb8000000 blur_radius=15
 sketchybar --default icon.font="Hack Nerd Font:Bold:14.0" \
     background.height=21 \
     background.padding_left=8 \
