@@ -8,9 +8,5 @@ yabai -m config left_padding   10
 yabai -m config right_padding  10
 yabai -m config window_gap     10
 
-yabai -m config window_opacity on
-yabai -m config active_window_opacity 0.95
-yabai -m config normal_window_opacity 0.95
-
 # change to all:x:0 for reducing top by x to give space to sketchybar
 yabai -m config external_bar all:34:0
