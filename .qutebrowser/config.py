@@ -3,6 +3,8 @@ c.tabs.position="right"
 c.tabs.show="always"
 c.confirm_quit=["downloads"]
 c.downloads.position="bottom"
+c.downloads.remove_finished=60000
+c.downloads.location.remember=False
 c.tabs.width="12%"
 c.url.searchengines={"DEFAULT":"https://google.com/search?q={}"}
 c.url.default_page="raw.githubusercontent.com/qutebrowser/qutebrowser/main/doc/img/cheatsheet-big.png"
