@@ -18,7 +18,6 @@ Plug 'L3MON4D3/LuaSnip', {'tag': 'v2.*', 'do': 'make install_jsregexp'} " Replac
 Plug 'saadparwaiz1/cmp_luasnip'
 Plug 'lervag/vimtex'
 Plug 'kaarmu/typst.vim'
-Plug 'nvarner/typst-lsp'
 Plug 'niuiic/core.nvim'
 Plug 'niuiic/typst-preview.nvim'
 Plug 'mfussenegger/nvim-lint'

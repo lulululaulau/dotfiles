@@ -1,4 +1,4 @@
-require'lspconfig'.typst_lsp.setup{
+require'lspconfig'.tinymist.setup{
   settings = {
     exportPdf = "onType"
   }
