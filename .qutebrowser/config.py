@@ -2,6 +2,7 @@ config.load_autoconfig()
 c.tabs.position="right"
 c.tabs.show="always"
 c.confirm_quit=["downloads"]
+c.content.pdfjs=True
 c.downloads.position="bottom"
 c.downloads.remove_finished=60000
 c.downloads.location.remember=False
