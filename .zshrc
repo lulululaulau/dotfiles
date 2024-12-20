@@ -113,3 +113,5 @@ alias activate='source bin/activate'
 export PATH=/Users/llau/Scripts:$PATH
 export PATH=/Users/llau/.cargo/bin:$PATH
 export PATH=/Users/llau/.local/bin:$PATH
+
+[ -f "/Users/llau/.ghcup/env" ] && . "/Users/llau/.ghcup/env" # ghcup-env
