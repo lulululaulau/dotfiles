@@ -7,6 +7,7 @@ let g:vimtex_quick_fix_open_on_warning = 0
 let g:vimtex_quickfix_ignore_filters = [
       \ 'Underfull \\hbox',
       \ 'Overfull \\hbox',
+      \ 'You got a bad break'
       \]
 
 
