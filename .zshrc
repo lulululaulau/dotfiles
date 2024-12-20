@@ -111,4 +111,5 @@ alias gittop='cd $(git rev-parse --git-dir); ..'
 alias von='python -m von'
 alias activate='source bin/activate'
 export PATH=/Users/llau/Scripts:$PATH
+export PATH=/Users/llau/.cargo/bin:$PATH
 export PATH=/Users/llau/.local/bin:$PATH
