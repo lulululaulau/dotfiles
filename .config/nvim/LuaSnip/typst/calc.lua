@@ -55,6 +55,16 @@ s({trig = "int"},
   }
 ),
 
+s({trig = "iint"},
+  {
+    t("integral.double_("),
+    i(1),
+    t(") "),
+    i(2),
+    t(" #h(0.1cm) d ")
+  }
+),
+
 s({trig = "lim"},
   {
     t("lim_("),
