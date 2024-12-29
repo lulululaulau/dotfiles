@@ -103,11 +103,11 @@ source $ZSH/oh-my-zsh.sh
 alias python="python3"
 alias pip="pip3"
 # fzf Documents
-alias fzd='cd $(find ~/Documents -type d | fzf || echo ".")'
+alias fzd='cd "$(find ~/Documents -type d | fzf || echo ".")"'
 # fzf Here
-alias fzh='cd $(find . -type d | fzf)'
-alias school='cd ~/Documents/School/$(ls ~/Documents/School | sort -r | head -n 1)'
-alias gittop='cd $(git rev-parse --git-dir); ..'
+alias fzh='cd "$(find . -type d | fzf)"'
+alias school='cd "~/Documents/School/$(ls ~/Documents/School | sort -r | head -n 1)"'
+alias gittop='cd "$(git rev-parse --git-dir);" ..'
 alias von='python -m von'
 alias activate='source bin/activate'
 export PATH=/Users/llau/Scripts:$PATH
