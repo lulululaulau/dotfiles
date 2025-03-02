@@ -18,3 +18,14 @@ require'lspconfig'.texlab.setup {
   capabilities = capabilities
 }
 
+require'lspconfig'.rust_analyzer.setup{
+  capabilities = capabilities,
+  settings = {
+    ['rust_analyzer'] = {
+      diagnostics = {
+        enable = false;
+      }
+    }
+  }
+}
+
