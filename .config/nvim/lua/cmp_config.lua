@@ -42,13 +42,3 @@ cmp.setup.cmdline(':', {
   matching = { disallow_symbol_nonprefix_matching = false }
 })
 
-local capabilities = require('cmp_nvim_lsp').default_capabilities()
-local servers = {
-  'clangd',
-  'texlab'
-}
-for _, lsp in ipairs(servers) do
-  require('lspconfig')[lsp].setup {
-    capabilities = capabilities
-  }
-end
