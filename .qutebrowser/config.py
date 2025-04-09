@@ -11,7 +11,6 @@ c.downloads.remove_finished=60000
 c.downloads.location.remember=False
 c.downloads.location.suggestion="both"
 c.tabs.width="12%"
-c.url.searchengines={"DEFAULT":"https://google.com/search?q={}"}
 c.url.default_page="mail.google.com/mail/u/0/#inbox"
 c.tabs.last_close="close"
 c.tabs.select_on_remove="next"
