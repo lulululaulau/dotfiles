@@ -71,7 +71,7 @@ s({trig = "ceil"},
   {
     t("\\left\\lceil "),
     i(1),
-    t(" \\right\\floor")
+    t(" \\right\\rceil")
   }
 ),
 
