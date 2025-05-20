@@ -29,3 +29,7 @@ require'lspconfig'.rust_analyzer.setup{
   }
 }
 
+require'lspconfig'.basedpyright.setup{
+  capabilities = capabilities
+}
+
