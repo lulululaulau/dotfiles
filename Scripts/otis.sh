@@ -1,11 +1,6 @@
 #!/bin/bash
 # this is a script to automate handling downloaded OTIS files
 #
-# only change directory when there are no inputs
-if [ $# -eq 0 ]; then
-  cd /Users/llau/Documents/Personal/Math/OTIS
-  return
-fi
 
 # initialize variables
 indir="/Users/llau/Downloads"
@@ -16,7 +11,7 @@ if ! ( test -f $1-$2.pdf && test -f otis.evanchen.cc.txt ) ; then
   echo "file(s) not found"
   echo "arguments should match the pdf name without the dash or file extension"
   echo "this script assumes google chrome's default file names"
-  return
+  exit
 fi
 
 upper=$(echo "$2" | tr '[:lower:]' '[:upper:]')
