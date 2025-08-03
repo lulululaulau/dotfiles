@@ -43,6 +43,10 @@ sketchybar --add item spotifyShowHide q \
     --set spotifyShowHide drawing=off \
     --set spotifyShowHide click_script="$PLUGINDIR/spotifyShowHide.sh"
 
+sketchybar --add item nextCalEvent e \
+  --set nextCalEvent script="$PLUGINDIR/calendar.sh" \
+  --set nextCalEvent update_freq=60
+
 sketchybar --update
 
 # vim: ft=sh
