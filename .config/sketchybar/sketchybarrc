@@ -2,17 +2,18 @@ PLUGINDIR="~/.config/sketchybar/plugins"
 sketchybar --bar position=top height=24 color=0xb8000000 blur_radius=15
 sketchybar --default icon.font="Hack Nerd Font:Bold:14.0" \
     background.height=21 \
-    background.padding_left=8 \
+    background.padding_left=4 \
+    background.padding_right=4 \
     label.color=0xfff2d2d4 \
     icon.color=0xfff2d2d4
 
 sketchybar --add item clock right \
     --set clock script="$PLUGINDIR/clock.sh" \
-    --set clock update_freq=5
+                update_freq=10
 
 sketchybar --add item battery right \
     --set battery script="$PLUGINDIR/battery.sh" \
-    --set battery update_freq=60
+                  update_freq=60
 
 sketchybar --add event windowFlagChanged
 
@@ -24,29 +25,65 @@ sketchybar --add event spotify_change "com.spotify.client.PlaybackStateChanged"
 
 sketchybar --add item spotifyNext q \
     --set spotifyNext label="󰒭" \
-    --set spotifyNext click_script="osascript -e 'tell application \"Spotify\" to next track'"
+                      click_script="osascript -e 'tell application \"Spotify\" to next track'"
 
 sketchybar --add item spotifyPlayPause q \
     --set spotifyPlayPause script="$PLUGINDIR/spotifyPlayPause.sh" \
-    --set spotifyPlayPause click_script="osascript -e 'tell application \"Spotify\" to playpause'" \
-    --subscribe spotifyPlayPause spotify_change \
-    --set spotifyPlayPause update_freq=60
+                          click_script="osascript -e 'tell application \"Spotify\" to playpause'" \
+                          update_freq=60 \
+    --subscribe spotifyPlayPause spotify_change
 
 sketchybar --add item spotifyIndicator q \
     --set spotifyIndicator script="$PLUGINDIR/spotifyIndicator.sh" \
-    --set spotifyIndicator click_script="$PLUGINDIR/spotifyShowHide.sh" \
-    --subscribe spotifyIndicator spotify_change \
-    --set spotifyIndicator update_freq=60
+                          click_script="$PLUGINDIR/spotifyShowHide.sh" \
+                          update_freq=60 \
+    --subscribe spotifyIndicator spotify_change
 
 sketchybar --add item spotifyShowHide q \
     --set spotifyShowHide label="" \
-    --set spotifyShowHide drawing=off \
-    --set spotifyShowHide click_script="$PLUGINDIR/spotifyShowHide.sh"
+                          drawing=off \
+                          click_script="$PLUGINDIR/spotifyShowHide.sh"
 
-sketchybar --add item nextCalEvent e \
-  --set nextCalEvent script="$PLUGINDIR/calendar.sh" \
-  --set nextCalEvent update_freq=60
+sketchybar --add event calendarLoaded
+sketchybar --add event reloadCalendar
+
+sketchybar --add item reloadCal e\
+    --set reloadCal label="󰑓" \
+                  click_script="sketchybar -m --trigger reloadCalendar"
+
+sketchybar --add item calEvent1 e \
+    --set calEvent1 script="$PLUGINDIR/calendar.sh 1" \
+                  click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
+                  update_freq=3600 \
+                  popup.background.color=0xb8000000 \
+                  popup.background.border_width=2 \
+                  popup.background.border_color=0xfff2d2d4 \
+    --subscribe calEvent1 reloadCalendar
+
+calSubitem=(
+  update_freq=0
+  background.padding_right=5
+)
+
+
+sketchybar --add item calEvent2 popup.calEvent1 \
+    --set calEvent2 script="$PLUGINDIR/calendar.sh 2" \
+                    "${calSubitem[@]}" \
+    --subscribe calEvent2 calendarLoaded
+sketchybar --add item calEvent3 popup.calEvent1 \
+    --set calEvent3 script="$PLUGINDIR/calendar.sh 3" \
+                    "${calSubitem[@]}" \
+    --subscribe calEvent3 calendarLoaded
+sketchybar --add item calEvent4 popup.calEvent1 \
+    --set calEvent4 script="$PLUGINDIR/calendar.sh 4" \
+                    "${calSubitem[@]}" \
+    --subscribe calEvent4 calendarLoaded
+sketchybar --add item calEvent5 popup.calEvent1 \
+    --set calEvent5 script="$PLUGINDIR/calendar.sh 5" \
+                    "${calSubitem[@]}" \
+    --subscribe calEvent5 calendarLoaded
 
 sketchybar --update
 
 # vim: ft=sh
+# vim: shiftwidth=4

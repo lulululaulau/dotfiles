@@ -42,7 +42,7 @@ def main():
         .list(
             calendarId="primary",
             timeMin=now,
-            maxResults=1,
+            maxResults=5,
             singleEvents=True,
             orderBy="startTime",
         )
