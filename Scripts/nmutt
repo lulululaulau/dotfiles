@@ -1,0 +1,5 @@
+#!/bin/bash
+mbsync -a
+notmuch new
+neomutt
+mbsync -a

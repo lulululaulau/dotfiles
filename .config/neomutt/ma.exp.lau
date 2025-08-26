@@ -1,0 +1,15 @@
+set my_pass = "`pass Neomutt/ma.exp.lau`"
+
+set imap_user = "ma.exp.lau@gmail.com"
+set imap_pass = $my_pass
+# set folder = "imaps://ma.exp.lau@imap.gmail.com:993"
+set folder = "~/.local/share/email/ma.exp.lau"
+set spoolfile = "+INBOX"
+
+set from = "ma.exp.lau@gmail.com"
+set realname = "Lewis Lau"
+
+set smtp_url = "smtps://ma.exp.lau@gmail.com@smtp.gmail.com:465"
+set smtp_pass = $my_pass
+set smtp_authenticators = "login"
+

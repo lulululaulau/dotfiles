@@ -1,0 +1,23 @@
+# source "~/.config/neomutt/ma.exp.lau"
+source "~/.config/neomutt/lewislau121"
+
+folder-hook 'ma.exp.lau' 'source ~/.config/neomutt/ma.exp.lau'
+folder-hook 'lewislau121' 'source ~/.config/neomutt/lewislau121'
+# folder-hook 'lulululaulau228' 'source ~/.config/neomutt/lulululaulau228'
+
+macro index 1 "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/ma.exp.lau<enter><sync-mailbox><change-folder>!<enter>"
+macro index 2 "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lewislau121<enter><sync-mailbox><change-folder>!<enter>"
+# macro index <f3> "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lulululaulau228<enter><sync-mailbox><change-folder>!<enter>"
+
+
+
+# bind index G imap-fetch-mail
+macro index G "<shell-escape>mbsync -a; notmuch new<enter>"
+macro index \Cf "<enter-command>unset wait_key<enter><shell-escape>read -p 'Enter a search term to find with notmuch: ' x; echo \$x >~/.cache/mutt_terms<enter><limit>~i \"\`notmuch search --output=messages \$(cat ~/.cache/mutt_terms) | head -n 600 | perl -le '@a=<>;s/\^id:// for@a;$,=\"|\";print@a' | perl -le '@a=<>; chomp@a; s/\\+/\\\\+/ for@a;print@a' \`\"<enter>" "show only messages matching a notmuch pattern"
+
+set editor = "nvim"
+
+auto_view text/html
+set mailcap_path = ~/.config/neomutt/mailcap
+
+

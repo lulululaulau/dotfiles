@@ -1,0 +1,79 @@
+Create Both
+Expunge Both
+SyncState *
+
+
+IMAPAccount ma.exp.lau
+Host imap.gmail.com
+User ma.exp.lau@gmail.com
+PassCmd "pass Neomutt/ma.exp.lau"
+TLSType IMAPS
+AuthMechs LOGIN
+
+IMAPStore ma.exp.lau-remote
+Account ma.exp.lau
+
+MaildirStore ma.exp.lau-local
+Path ~/.local/share/email/ma.exp.lau/
+Inbox ~/.local/share/email/ma.exp.lau/inbox
+
+Channel ma.exp.lau-inbox
+Far :ma.exp.lau-remote:
+Near :ma.exp.lau-local:
+Patterns "INBOX"
+
+Channel ma.exp.lau-sent
+Far :ma.exp.lau-remote:"[Gmail]/Sent Mail"
+Near :ma.exp.lau-local:sent
+
+Channel ma.exp.lau-trash
+Far :ma.exp.lau-remote:"[Gmail]/Trash"
+Near :ma.exp.lau-local:trash
+
+Group ma.exp.lau
+Channel ma.exp.lau-inbox
+Channel ma.exp.lau-sent
+Channel ma.exp.lau-trash
+
+
+
+IMAPAccount lewislau121
+Host imap.gmail.com
+User lewislau121@gmail.com
+PassCmd "pass Neomutt/lewislau121"
+TLSType IMAPS
+AuthMechs LOGIN
+
+IMAPStore lewislau121-remote
+Account lewislau121
+
+MaildirStore lewislau121-local
+Path ~/.local/share/email/lewislau121/
+Inbox ~/.local/share/email/lewislau121/inbox
+
+Channel lewislau121-inbox
+Far :lewislau121-remote:
+Near :lewislau121-local:
+Patterns "INBOX"
+
+Channel lewislau121-sent
+Far :lewislau121-remote:"[Gmail]/Sent Mail"
+Near :lewislau121-local:sent
+
+Channel lewislau121-trash
+Far :lewislau121-remote:"[Gmail]/Trash"
+Near :lewislau121-local:trash
+
+Group lewislau121
+Channel lewislau121-inbox
+Channel lewislau121-sent
+Channel lewislau121-trash
+
+# Gmail mailboxes:
+# "All Mail"
+# "Drafts"
+# "Important"
+# "Sent Mail"
+# "Spam"
+# "Starred"
+# "Trash"
