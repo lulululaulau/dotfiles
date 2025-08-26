@@ -106,7 +106,7 @@ alias pip="pip3"
 alias fzd='cd "$(find ~/Documents -type d | fzf || echo ".")"'
 # fzf Here
 alias fzh='cd "$(find . -type d | fzf)"'
-alias school='cd "~/Documents/School/$(ls ~/Documents/School | sort -r | head -n 1)"'
+alias school='cd ~/Documents/School/2025-2026'
 alias gittop='cd "$(git rev-parse --git-dir);" ..'
 alias von='python -m von'
 alias activate='source bin/activate'
