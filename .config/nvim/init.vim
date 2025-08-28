@@ -21,3 +21,5 @@ lua require('cmp_config')
 lua require('linter')
 
 lua require('lsp')
+
+lua require('telescope')
