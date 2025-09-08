@@ -1,7 +1,10 @@
 #!/bin/bash
 
+# check internet connection before calling fiveevents.py
 if [ ${1} -eq 1 ]; then
-  ~/calendar/fiveevents.py > ~/.config/sketchybar/plugins/calendarEvents
+  if ( system_profiler SPAirPortDataType | grep -q "Status: Connected" ) ; then
+    ~/calendar/fiveevents.py > ~/.config/sketchybar/plugins/calendarEvents
+  fi
   sketchybar --trigger calendarLoaded
 fi
 event=$(sed -n "${1}p" ~/.config/sketchybar/plugins/calendarEvents)
