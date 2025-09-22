@@ -54,12 +54,15 @@ sketchybar --add item reloadCal e\
                   click_script="sketchybar -m --trigger reloadCalendar"
 
 sketchybar --add item calEvent1 e \
-    --set calEvent1 script="$PLUGINDIR/calendar.sh 1" \
+    --set calEvent1 script="$PLUGINDIR/calendar.sh 0" \
                   click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
                   update_freq=3600 \
+                  popup.y_offset=-24 \
+                  popup.height=22 \
                   popup.background.color=0xb8000000 \
-                  popup.background.border_width=2 \
+                  popup.background.border_width=1 \
                   popup.background.border_color=0xfff2d2d4 \
+                  popup.background.corner_radius=9 \
     --subscribe calEvent1 reloadCalendar
 
 calSubitem=(
@@ -68,6 +71,11 @@ calSubitem=(
 )
 
 
+sketchybar --add item cal1Clone popup.calEvent1 \
+    --set cal1Clone script="$PLUGINDIR/calendar.sh 1" \
+                    "${calSubitem[@]}" \
+                    click_script="sketchybar -m --set calEvent1 popup.drawing=toggle" \
+    --subscribe cal1Clone calendarLoaded
 sketchybar --add item calEvent2 popup.calEvent1 \
     --set calEvent2 script="$PLUGINDIR/calendar.sh 2" \
                     "${calSubitem[@]}" \
