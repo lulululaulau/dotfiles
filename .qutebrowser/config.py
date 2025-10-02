@@ -2,7 +2,7 @@ from qutebrowser.api import interceptor
 
 config.load_autoconfig(False)
 c.tabs.position="right"
-c.tabs.show="always"
+c.tabs.show="multiple"
 c.confirm_quit=["always"]
 c.content.pdfjs=True
 c.content.blocking.method="both"
