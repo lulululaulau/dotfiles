@@ -20,6 +20,7 @@ c.tabs.new_position.unrelated="next"
 c.editor.command=["/opt/homebrew/bin/vimr", "--line", "{line}", "{file}"]
 c.window.title_format="{audio}{host} {current_title}"
 config.bind('I', 'mode-enter passthrough')
+c.aliases["ww"] = "session-save --only-active-window"
 
 
 def filter_youtube(info: interceptor.Request):
