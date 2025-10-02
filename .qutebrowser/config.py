@@ -1,6 +1,6 @@
 from qutebrowser.api import interceptor
 
-config.load_autoconfig()
+config.load_autoconfig(False)
 c.tabs.position="right"
 c.tabs.show="always"
 c.confirm_quit=["downloads"]
