@@ -12,6 +12,7 @@ c.downloads.location.remember=False
 c.downloads.location.suggestion="both"
 c.tabs.width="12%"
 c.url.default_page="mail.google.com/mail/u/0/#inbox"
+c.url.searchengines={'DEFAULT': 'https://google.com/search?q={}&udm=14'}
 c.tabs.last_close="close"
 c.tabs.select_on_remove="next"
 c.tabs.title.format="{audio}{relative_index}: {current_title}"
