@@ -19,7 +19,7 @@ c.tabs.title.format="{audio}{relative_index}: {current_title}"
 c.tabs.new_position.unrelated="next"
 c.editor.command=["/opt/homebrew/bin/vimr", "--line", "{line}", "{file}"]
 c.window.title_format="{audio}{host} {current_title}"
-c.bindings.commands={"normal": {"I": "mode-enter passthrough"}}
+config.bind('I', 'mode-enter passthrough')
 
 
 def filter_youtube(info: interceptor.Request):
