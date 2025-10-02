@@ -22,6 +22,20 @@ c.window.title_format="{audio}{host} {current_title}"
 config.bind('I', 'mode-enter passthrough')
 c.aliases["ww"] = "session-save --only-active-window"
 
+c.colors.webpage.darkmode.enabled=True
+darkmodeexceptions = [
+        '*://www.overleaf.com/project/*', # the editor theme is enough
+        '*://mail.google.com/*', # the built-in darkmode is better
+        '*://docs.google.com/*', # darkmode only inverts the menus, which looks awkward
+        '*://math216.wordpress.com/*',
+        '*://www.desmos.com/calculator/*',
+        '*://dumu.math.duke.edu/dumu/py/*',
+        '*://online-go.com/*'
+        ]
+for site in darkmodeexceptions:
+    config.set("colors.webpage.darkmode.enabled", False, site)
+c.colors.webpage.darkmode.policy.images="never"
+
 
 def filter_youtube(info: interceptor.Request):
     """Block given request if necessary"""
