@@ -10,6 +10,7 @@ c.downloads.location.suggestion="both"
 c.downloads.position="bottom"
 c.downloads.remove_finished=60000
 c.editor.command=["/opt/homebrew/bin/vimr", "--line", "{line}", "{file}"]
+c.hints.chars="aoeuidhtns"
 c.tabs.last_close="close"
 c.tabs.new_position.unrelated="next"
 c.tabs.position="right"
