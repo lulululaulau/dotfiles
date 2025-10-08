@@ -22,6 +22,8 @@ c.window.title_format="{audio}{host} {current_title}"
 config.bind('I', 'mode-enter passthrough')
 c.aliases["ww"] = "session-save --only-active-window"
 
+config.bind('o', 'cmd-set-text -s :open -t')
+config.bind('O', 'cmd-set-text -s :open')
 config.bind('tdh', 'config-cycle -t -u *://{url:host}/* colors.webpage.darkmode.enabled ;; reload')
 config.bind('tdu', 'config-cycle -t -u {url} colors.webpage.darkmode.enabled ;; reload')
 config.bind('tdH', 'config-cycle -t -u *://*.{url.host}/* colors.webpage.darkmode.enabled ;; reload')
