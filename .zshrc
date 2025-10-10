@@ -110,6 +110,7 @@ alias school='cd ~/Documents/School/2025-2026'
 alias gittop='cd "$(git rev-parse --git-dir);" ..'
 alias von='python -m von'
 alias activate='source bin/activate'
+alias nmutt='mbsync -a; notmuch new; neomutt; mbsync -a; notmuch new'
 export PATH=/Users/llau/Scripts:$PATH
 export PATH=/Users/llau/.cargo/bin:$PATH
 export PATH=/Users/llau/.local/bin:$PATH
