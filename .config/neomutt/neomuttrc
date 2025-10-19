@@ -1,5 +1,6 @@
 # source "~/.config/neomutt/ma.exp.lau"
 source "~/.config/neomutt/lewislau121"
+source "~/.config/neomutt/contacts"
 
 folder-hook 'ma.exp.lau' 'source ~/.config/neomutt/ma.exp.lau'
 folder-hook 'lewislau121' 'source ~/.config/neomutt/lewislau121'

@@ -1,5 +1,7 @@
 local cmp = require('cmp')
 
+cmp.register_source('neomutt', require('cmp_neomutt'))
+
 cmp.setup({
   snippet = {
     expand = function(args)
@@ -20,6 +22,7 @@ cmp.setup({
   sources = cmp.config.sources({
     { name = 'nvim_lsp' },
     { name = 'luasnip' },
+    { name = 'neomutt' },
   }, {
     { name = 'buffer' },
   })
