@@ -5,5 +5,4 @@ set scrolloff=10
 set tabstop=2
 set colorcolumn=80
 set hidden
-setlocal spell spelllang=en_us
 let mapleader=';'
