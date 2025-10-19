@@ -39,6 +39,19 @@ s({trig = "if"},
   {t("\\Longleftarrow")}
 ),
 
+s({trig = "iffproof"},
+  {
+    t({"\\begin{itemize}", "  \\item["}),
+    i(1, "$\\Longrightarrow$"),
+    t("] "),
+    i(2),
+    t({"", "  \\item["}),
+    i(3, "$\\Longleftarrow$"),
+    t("] "),
+    i(4),
+    t({"", "\\end{itemize}"}),
+  }
+)
 
 }
 
