@@ -15,4 +15,5 @@ lua require('linter')
 lua require('lsp')
 lua require('telescope')
 lua require('tterm')
+lua require('banMathLazy')
 
