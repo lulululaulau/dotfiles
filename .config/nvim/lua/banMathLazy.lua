@@ -1,13 +1,9 @@
 local ns = vim.api.nvim_create_namespace("forbidden_words_diagnostics")
 local forbidden_words = {
   "TRIVIAL",
-  "TRIVIALLY",
   "CLEAR",
-  "CLEARLY",
   "OBVIOUS",
-  "OBVIOUSLY",
   "EVIDENT",
-  "EVIDENTLY"
 }
 
 local function check_forbidden_words(bufnr)
