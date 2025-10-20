@@ -93,6 +93,10 @@ sketchybar --add item calEvent5 popup.calEvent1 \
                     "${calSubitem[@]}" \
     --subscribe calEvent5 calendarLoaded
 
+sketchybar --add item clipboardReset left \
+    --set clipboardReset label="" \
+                         click_script="pbpaste | pbcopy"
+
 sketchybar --update
 
 # vim: ft=sh
