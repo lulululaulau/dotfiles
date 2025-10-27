@@ -27,9 +27,9 @@ s({trig = "diff"},
 
 s({trig = "pd"},
   {
-    t("(diff "),
+    t("(partial "),
     i(1),
-    t(") / (diff "),
+    t(") / (partial "),
     i(2),
     t(")")
   }
