@@ -5,4 +5,8 @@ set scrolloff=10
 set tabstop=2
 set colorcolumn=80
 set hidden
-let mapleader=';'
+let mapleader=','
+nnoremap ; :
+nnoremap : ;
+vnoremap ; :
+vnoremap : ;
