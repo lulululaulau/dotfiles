@@ -13,7 +13,7 @@ lua require('typst')
 lua require('cmp_config')
 lua require('linter')
 lua require('lsp')
-lua require('telescope')
+lua require('tscope')
 lua require('tterm')
 lua require('banMathLazy')
 

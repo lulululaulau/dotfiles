@@ -22,7 +22,7 @@ Plug 'niuiic/core.nvim'
 " Plug 'niuiic/typst-preview.nvim'
 Plug 'mfussenegger/nvim-lint'
 Plug 'nvim-lua/plenary.nvim'
-Plug 'nvim-telescope/telescope.nvim', { 'tag' : '0.1.8' }
+Plug 'nvim-telescope/telescope.nvim', { 'tag' : 'v0.2.0' }
 Plug 'akinsho/toggleterm.nvim', {'tag' : '*'}
 Plug 'mcchrish/nnn.vim'
 call plug#end()
