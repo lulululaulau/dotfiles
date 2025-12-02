@@ -1,7 +1,8 @@
 vim.lsp.config('tinymist', {
   capabilities=require('cmp_nvim_lsp').default_capabilities(),
   settings = {
-    exportPdf = "onSave"
+    exportPdf = "onSave",
+    formatterMode = "typstyle"
   },
   on_attach = function(client, bufnr)
     vim.keymap.set("n", "<leader>tp", function()
