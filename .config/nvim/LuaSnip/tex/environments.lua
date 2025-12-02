@@ -40,6 +40,19 @@ s({trig = "\\["},
   }
 ),
 
+s({trig = "figure"},
+  {
+    t({"\\begin{figure}[ht]", "  \\centering", "  \\includegraphics[width="}),
+    i(1),
+    t("\\linewidth]{"),
+    i(2),
+    t({"}", "  \\caption{"}),
+    i(3),
+    t({"}%", "  \\label{fig:"}),
+    i(4),
+    t({"}", "\\end{figure}"})
+  }
+),
 
 
 
