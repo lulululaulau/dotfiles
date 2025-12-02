@@ -1,4 +1,4 @@
-require'lspconfig'.tinymist.setup{
+vim.lsp.config('tinymist', {
   capabilities=require('cmp_nvim_lsp').default_capabilities(),
   settings = {
     exportPdf = "onSave"
@@ -20,7 +20,7 @@ require'lspconfig'.tinymist.setup{
       }, { bufnr = bufnr })
     end, { desc = "[T]inymist [U]npin", noremap = true })
   end,
-}
+})
 
 vim.api.nvim_create_user_command("OpenPdf", function()
     local filepath = vim.api.nvim_buf_get_name(0)

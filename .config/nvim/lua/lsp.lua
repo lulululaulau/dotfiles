@@ -1,19 +1,19 @@
 local capabilities = require('cmp_nvim_lsp').default_capabilities()
 
-require'lspconfig'.clangd.setup {
+vim.lsp.config('clangd', {
   capabilities=capabilities,
   on_attach = function(client, bufnr)
     if vim.bo[bufnr].filetype == "robotc" then
         client.stop() -- Prevent clangd from activating
     end
   end
-}
+})
 
-require'lspconfig'.texlab.setup {
+vim.lsp.config('texlab',  {
   capabilities = capabilities
-}
+})
 
-require'lspconfig'.rust_analyzer.setup{
+vim.lsp.config('rust_analyzer', {
   capabilities = capabilities,
   settings = {
     ['rust_analyzer'] = {
@@ -22,12 +22,19 @@ require'lspconfig'.rust_analyzer.setup{
       }
     }
   }
-}
+})
 
-require'lspconfig'.basedpyright.setup{
+vim.lsp.config('basedpyright', {
   capabilities = capabilities
-}
+})
 
 vim.diagnostic.config({virtual_text = true})
 vim.lsp.set_log_level("off")
+
+vim.lsp.enable('clangd')
+vim.lsp.enable('texlab')
+vim.lsp.enable('rust_analyzer')
+vim.lsp.enable('basedpyright')
+vim.lsp.enable('tinymist')
+
 
