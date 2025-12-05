@@ -8,6 +8,7 @@ execute 'source ' . config_dir . '/config/vimtex.vim'
 execute 'source ' . config_dir . '/config/statusline.vim'
 execute 'source ' . config_dir . '/config/swarm.vim'
 execute 'source' . config_dir . '/config/spell.vim'
+execute 'source' . config_dir . '/config/asy.vim'
 
 lua require('typst')
 lua require('cmp_config')
