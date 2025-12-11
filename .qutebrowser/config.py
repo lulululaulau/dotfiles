@@ -35,13 +35,15 @@ config.bind('tdH', 'config-cycle -t -u *://*.{url.host}/* colors.webpage.darkmod
 
 c.colors.webpage.darkmode.enabled=True
 darkmodeexceptions = [
-        '*://www.overleaf.com/project/*', # the editor theme is enough
-        '*://mail.google.com/*', # the built-in darkmode is better
-        '*://docs.google.com/*', # darkmode only inverts the menus, which looks awkward
+        '*://www.overleaf.com/project/*',
+        '*://mail.google.com/*',
+        '*://docs.google.com/*',
         '*://math216.wordpress.com/*',
         '*://www.desmos.com/calculator/*',
         '*://dumu.math.duke.edu/dumu/py/*',
-        '*://online-go.com/*'
+        '*://online-go.com/*',
+        '*://discord.com/*',
+        '*://musescore.com/*'
         ]
 for site in darkmodeexceptions:
     config.set("colors.webpage.darkmode.enabled", False, site)
