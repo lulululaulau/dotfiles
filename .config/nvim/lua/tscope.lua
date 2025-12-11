@@ -1,6 +1,6 @@
 require("telescope").setup{
   defaults = {
-    file_ignore_patterns = {"%.pdf"}
+    file_ignore_patterns = {"%.pdf", "%.png", "%.jpg"}
   }
 }
 local builtin = require('telescope.builtin')
