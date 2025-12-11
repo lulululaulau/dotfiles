@@ -23,6 +23,8 @@ c.url.searchengines={'DEFAULT': 'https://google.com/search?q={}&udm=14'}
 c.window.title_format="{audio}{host} {current_title}"
 
 config.bind('I', 'mode-enter passthrough')
+config.bind(';', 'cmd-set-text :')
+config.bind('<Escape>', 'clear-keychain ;; clear-messages ;; search ;; fullscreen --leave')
 
 config.bind('o', 'cmd-set-text -s :open -t')
 config.bind('O', 'cmd-set-text -s :open')
