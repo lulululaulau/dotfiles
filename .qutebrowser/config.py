@@ -17,7 +17,7 @@ c.tabs.position="right"
 c.tabs.select_on_remove="prev"
 c.tabs.show="multiple"
 c.tabs.title.format="{audio}{relative_index}: {current_title}"
-c.tabs.width="12%"
+c.tabs.width="10%"
 c.url.default_page="mail.google.com/mail/u/0/#inbox"
 c.url.searchengines={'DEFAULT': 'https://google.com/search?q={}&udm=14'}
 c.window.title_format="{audio}{host} {current_title}"
