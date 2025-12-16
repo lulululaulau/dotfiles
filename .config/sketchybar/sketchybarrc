@@ -11,7 +11,8 @@ sketchybar --default icon.font="Hack Nerd Font:Bold:14.0" \
 
 sketchybar --add item clock right \
     --set clock script="$PLUGINDIR/clock.sh" \
-                update_freq=10
+                update_freq=10 \
+                label.padding_right=1
 
 sketchybar --add item battery right \
     --set battery script="$PLUGINDIR/battery.sh" \
