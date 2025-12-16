@@ -51,6 +51,7 @@ def main():
             maxResults=5,
             singleEvents=True,
             orderBy="startTime",
+            eventTypes=["default", "fromGmail"]
         )
         .execute()
     )
