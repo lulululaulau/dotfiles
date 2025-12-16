@@ -86,6 +86,38 @@ s({trig = "notesetup"},
   }
 ),
 
+s({trig = "setup"},
+  {
+    t({
+      "#import \"@local/lulu:1.0.0\": *",
+      "",
+      "#show: lulu.with(",
+      "  title: ["
+    }),
+    i(1),
+    t({
+      "],",
+      "  subtitle: ["
+    }),
+    i(2),
+    t({
+      "],",
+      "  author: \""
+    }),
+    i(3, "Lewis Lau"),
+    t({
+      "\",",
+      "  date: ["
+    }),
+    i(4),
+    t({
+      "]",
+      ")",
+      ""
+    })
+  }
+)
+
 
 }
 
