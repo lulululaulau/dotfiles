@@ -3,8 +3,11 @@ LABEL=$(pmset -g batt | tail -n1 | grep -Eo "\d+%")
 
 case "$LABEL" in
   0[0-9]%) ICON="󰂃" ;;
+  [5-9][0-9]%) ICON="󰁹" ;;
+  100%) ICON="󰁹" ;;
   [1-4][0-9]%) ICON="󰁾" ;;
-  *) ICON="󰁹" ;;
+  # *) ICON="󰁹" ;;
+  *) ICON=󰂃 ;;
 esac
 
 pmset -g batt | grep 'AC Power' > /dev/null && ICON="󰂄"
