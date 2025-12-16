@@ -57,7 +57,7 @@ s({trig = "int"},
 
 s({trig = "iint"},
   {
-    t("int.double_("),
+    t("iint_("),
     i(1),
     t(") "),
     i(2),
