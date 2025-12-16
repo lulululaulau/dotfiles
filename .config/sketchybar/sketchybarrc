@@ -98,6 +98,11 @@ sketchybar --add item clipboardReset left \
     --set clipboardReset label="" \
                          click_script="pbpaste | pbcopy"
 
+sketchybar --add item screenShot left \
+    --set screenShot label="screenshot" \
+    --set screenShot script="$PLUGINDIR/screenshotTarget.sh" \
+                     click_script="$PLUGINDIR/screenshotSwitcher.sh; $PLUGINDIR/screenshotTarget.sh"
+
 sketchybar --update
 
 # vim: ft=sh
