@@ -103,7 +103,8 @@ source $ZSH/oh-my-zsh.sh
 alias python="python3"
 alias pip="pip3"
 # fzf Documents
-alias fzd='cd "$(find ~/Documents -type d | fzf || echo ".")"'
+# alias fzd='cd "$(find ~/Documents -type d | fzf || echo ".")"'
+alias fzd='cd "$(find ~/Documents \( -name .git -o -name .venv -o -name venv \) -prune -o -type d -print | fzf || echo ".")"'
 # fzf Here
 alias fzh='cd "$(find . -type d | fzf)"'
 alias school='cd ~/Documents/School/2025-2026'
