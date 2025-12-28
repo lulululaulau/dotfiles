@@ -5,6 +5,7 @@ set imap_pass = $my_pass
 # set folder = "imaps://ma.exp.lau@imap.gmail.com:993"
 set folder = "~/.local/share/email/ma.exp.lau"
 set spoolfile = "+INBOX"
+set trash = "+TRASH"
 
 set from = "ma.exp.lau@gmail.com"
 set realname = "Lewis Lau"
