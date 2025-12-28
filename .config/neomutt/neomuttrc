@@ -7,8 +7,8 @@ folder-hook 'ma.exp.lau' 'source ~/.config/neomutt/ma.exp.lau'
 folder-hook 'lewislau121' 'source ~/.config/neomutt/lewislau121'
 # folder-hook 'lulululaulau228' 'source ~/.config/neomutt/lulululaulau228'
 
-macro index 1 "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/ma.exp.lau<enter><sync-mailbox><change-folder>!<enter>"
-macro index 2 "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lewislau121<enter><sync-mailbox><change-folder>!<enter>"
+macro index 2 "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/ma.exp.lau<enter><sync-mailbox><change-folder>!<enter>"
+macro index 1 "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lewislau121<enter><sync-mailbox><change-folder>!<enter>"
 # macro index <f3> "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lulululaulau228<enter><sync-mailbox><change-folder>!<enter>"
 
 
