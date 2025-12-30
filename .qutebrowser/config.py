@@ -22,6 +22,8 @@ c.url.default_page="mail.google.com/mail/u/0/#inbox"
 c.url.searchengines={'DEFAULT': 'https://google.com/search?q={}&udm=14'}
 c.window.title_format="{audio}{host} {current_title}"
 
+config.unbind('co')
+
 config.bind('E', 'spawn /opt/homebrew/bin/firefox "{url}"')
 
 config.bind('I', 'mode-enter passthrough')
