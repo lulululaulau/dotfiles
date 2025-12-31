@@ -32,14 +32,6 @@ s({trig = "eq"},
   }
 ),
 
-s({trig = "\\["},
-  {
-    t({"\\[", "  "}),
-    i(1),
-    t({"", "\\]", ""})
-  }
-),
-
 s({trig = "figure"},
   {
     t({"\\begin{figure}[ht]", "  \\centering", "  \\includegraphics[width="}),
