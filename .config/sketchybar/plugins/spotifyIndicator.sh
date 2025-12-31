@@ -23,7 +23,11 @@ if [ $RUNNING -eq 0 ] && [ $STOPPED -eq 1 ]; then
   LABEL=$(echo ${LABEL} | sed -e "s/’/'/g")
   LABEL=$(echo ${LABEL} | sed -e "s/　/ /g")
   if (( $(echo $LABEL | wc -c) > 40 )); then
-    LABEL="$(echo $LABEL | head -c 36) ..."
+    if (echo ${LABEL} | grep -q ' $'); then
+      LABEL="$(echo $LABEL | head -c 36)..."
+    else
+      LABEL="$(echo $LABEL | head -c 36) ..."
+    fi
   fi
   sketchybar -m --set $NAME label="$LABEL"
 else
