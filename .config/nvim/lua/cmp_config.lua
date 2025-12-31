@@ -22,7 +22,7 @@ cmp.setup({
   sources = cmp.config.sources({
     { name = 'nvim_lsp' },
     { name = 'luasnip' },
-    { name = 'neomutt' },
+    -- { name = 'neomutt' },
   }, {
     { name = 'buffer' },
   })
