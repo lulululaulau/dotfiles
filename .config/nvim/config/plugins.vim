@@ -29,6 +29,7 @@ Plug 'mfussenegger/nvim-jdtls'
 Plug 'mbbill/undotree'
 Plug 'f-person/git-blame.nvim'
 Plug 'windwp/nvim-autopairs'
+Plug 'tpope/vim-fugitive'
 call plug#end()
 
 filetype plugin on
