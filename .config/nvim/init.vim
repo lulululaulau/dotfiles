@@ -1,5 +1,7 @@
 let config_dir = stdpath('config')
 
+lua require('mappings')
+
 execute 'source ' . config_dir . '/config/vars.vim'
 execute 'source ' . config_dir . '/config/plugins.vim'
 execute 'source ' . config_dir . '/config/colors.vim'
@@ -17,4 +19,6 @@ lua require('lsp')
 lua require('tscope')
 lua require('tterm')
 lua require('banMathLazy')
+lua require('ts')
+lua require('undotree')
 
