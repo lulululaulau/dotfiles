@@ -38,8 +38,11 @@ vim.api.nvim_create_autocmd({
   --"TextChangedP"
 }, {
     callback = function(args)
-        check_forbidden_words(args.buf)
+        if vim.bo.filetype == "tex" or vim.bo.filetype == "typst" then
+          check_forbidden_words(args.buf)
+        end
     end
 })
+
 
 
