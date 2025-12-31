@@ -26,6 +26,7 @@ Plug 'nvim-telescope/telescope.nvim', { 'tag' : 'v0.2.0' }
 Plug 'akinsho/toggleterm.nvim', {'tag' : '*'}
 Plug 'mcchrish/nnn.vim'
 Plug 'mfussenegger/nvim-jdtls'
+Plug 'mbbill/undotree'
 call plug#end()
 
 filetype plugin on
