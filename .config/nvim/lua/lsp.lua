@@ -84,6 +84,19 @@ vim.lsp.config('lua_ls', {
   }
 })
 
+vim.api.nvim_create_autocmd("LspAttach", {
+  callback = function(args)
+    local client = vim.lsp.get_client_by_id(args.data.client_id)
+    local bufnr = args.buf
+    local opts = {buffer = bufnr, remap = false}
+
+    vim.keymap.set("n", "gd", vim.lsp.buf.definition, opts)
+    vim.keymap.set("n", "K", vim.lsp.buf.hover, opts)
+    vim.keymap.set("n", "gr", function() require("telescope.builtin").lsp_references() end, opts)
+
+  end
+})
+
 vim.diagnostic.config({virtual_text = true})
 vim.lsp.set_log_level("off")
 
@@ -94,5 +107,6 @@ vim.lsp.enable('basedpyright')
 vim.lsp.enable('tinymist')
 vim.lsp.enable('jdtls')
 vim.lsp.enable('lua_ls')
+
 
 
