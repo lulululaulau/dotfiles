@@ -25,6 +25,7 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim', { 'tag' : 'v0.2.0' }
 Plug 'akinsho/toggleterm.nvim', {'tag' : '*'}
 Plug 'mcchrish/nnn.vim'
+Plug 'mfussenegger/nvim-jdtls'
 call plug#end()
 
 filetype plugin on

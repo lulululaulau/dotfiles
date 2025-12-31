@@ -28,6 +28,13 @@ vim.lsp.config('basedpyright', {
   capabilities = capabilities
 })
 
+vim.lsp.config('jdtls', {
+  settings = {
+    java = {
+    },
+  },
+})
+
 vim.diagnostic.config({virtual_text = true})
 vim.lsp.set_log_level("off")
 
@@ -36,5 +43,6 @@ vim.lsp.enable('texlab')
 vim.lsp.enable('rust_analyzer')
 vim.lsp.enable('basedpyright')
 vim.lsp.enable('tinymist')
+vim.lsp.enable('jdtls')
 
 
