@@ -28,6 +28,7 @@ Plug 'mcchrish/nnn.vim'
 Plug 'mfussenegger/nvim-jdtls'
 Plug 'mbbill/undotree'
 Plug 'f-person/git-blame.nvim'
+Plug 'windwp/nvim-autopairs'
 call plug#end()
 
 filetype plugin on

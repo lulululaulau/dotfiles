@@ -21,4 +21,5 @@ lua require('tterm')
 lua require('banMathLazy')
 lua require('ts')
 lua require('undotree')
+lua require('autopairs')
 
