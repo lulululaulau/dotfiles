@@ -1,8 +1,0 @@
-set number relativenumber
-set shiftwidth=2 smarttab
-set expandtab
-set smartindent
-set scrolloff=10
-set tabstop=2
-set colorcolumn=80
-set hidden
