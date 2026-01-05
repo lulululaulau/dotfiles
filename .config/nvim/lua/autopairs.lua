@@ -13,7 +13,11 @@ npairs.setup({
 })
 
 npairs.add_rule(Rule("\\[", "\\]", {"tex", "latex"}))
-npairs.add_rule(Rule("$", "$", {"tex", "latex", "typst"}))
+npairs.add_rule(Rule("$", "$", "tex")
+   :with_move(function(opts)
+       return opts.next_char == opts.char
+    end)
+)
 npairs.add_rule(Rule(" ", " ", "typst"):with_pair(cond.before_text("$")))
 
 local brackets = { { '(', ')' }, { '[', ']' }, { '{', '}' } }
