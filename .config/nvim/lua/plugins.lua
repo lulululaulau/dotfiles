@@ -39,7 +39,7 @@ Plug('mbbill/undotree')
 Plug('f-person/git-blame.nvim')
 Plug('windwp/nvim-autopairs')
 Plug('tpope/vim-fugitive')
-
+Plug('girishji/bufline.vim')
 
 
 vim.call('plug#end')
