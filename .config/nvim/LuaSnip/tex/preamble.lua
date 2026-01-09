@@ -52,6 +52,33 @@ s({trig = "defaults"},
 ),
 
 
+s({trig = "beamer"},
+  {
+    t({"\\documentclass[11pt]{beamer}", ""}),
+    t({"\\usepackage{graphicx}", ""}),
+    t({"\\usepackage{amssymb}", ""}),
+    t({"\\usepackage{amsmath}", ""}),
+    t({"\\usepackage{biblatex}", ""}),
+    t({"\\usepackage{asymptote}", "", ""}),
+    t({"\\usepackage{hyperref}", "", ""}),
+    t("\\title{"),
+    i(1),
+    t({"}", "\\author{"}),
+    i(2, "Lewis Lau"),
+    t({"}", "\\date{"}),
+    i(3),
+    t({"}", "", ""}),
+    t("\\usetheme{"),
+    i(4, "Antibes"),
+    t({"}", "\\usecolortheme{"}),
+    i(5, "beaver"),
+    t({"}", "", ""}),
+    t({"\\begin{document}", "", ""}),
+    t({"\\begin{frame}", "  \\titlepage", "\\end{frame}", "", "", ""}),
+    t({"\\end{document}", ""})
+  }
+),
+
 
 s({trig = "packages"},
   {
