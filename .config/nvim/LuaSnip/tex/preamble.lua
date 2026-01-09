@@ -74,7 +74,7 @@ s({trig = "beamer"},
     i(5, "beaver"),
     t({"}", "", ""}),
     t({"\\begin{document}", "", ""}),
-    t({"\\begin{frame}", "  \\titlepage", "\\end{frame}", "", "", ""}),
+    t({"\\begin{frame}", "\t\\titlepage", "\\end{frame}", "", "", ""}),
     t({"\\end{document}", ""})
   }
 ),

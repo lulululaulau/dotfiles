@@ -41,11 +41,11 @@ s({trig = "if"},
 
 s({trig = "iffproof"},
   {
-    t({"\\begin{itemize}", "  \\item["}),
+    t({"\\begin{itemize}", "\t\\item["}),
     i(1, "$\\Longrightarrow$"),
     t("] "),
     i(2),
-    t({"", "  \\item["}),
+    t({"", "\titem["}),
     i(3, "$\\Longleftarrow$"),
     t("] "),
     i(4),

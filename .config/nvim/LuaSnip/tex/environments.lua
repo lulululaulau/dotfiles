@@ -16,7 +16,7 @@ s({trig = "env"},
   {
     t("\\begin{"),
     i(1),
-    t({"}", "  "}),
+    t({"}", "\t"}),
     i(2),
     t({"", "\\end{"}),
     rep(1),
@@ -26,7 +26,7 @@ s({trig = "env"},
 
 s({trig = "eq"},
   {
-    t({"\\begin{equation*}", "  "}),
+    t({"\\begin{equation*}", "\t"}),
     i(1),
     t({"", "\\end{equation*}", ""})
   }
@@ -34,13 +34,13 @@ s({trig = "eq"},
 
 s({trig = "figure"},
   {
-    t({"\\begin{figure}[ht]", "  \\centering", "  \\includegraphics[width="}),
+    t({"\\begin{figure}[ht]", "\t\\centering", "\t\\includegraphics[width="}),
     i(1),
     t("\\linewidth]{"),
     i(2),
-    t({"}", "  \\caption{"}),
+    t({"}", "\t\\caption{"}),
     i(3),
-    t({"}%", "  \\label{fig:"}),
+    t({"}%", "\t\\label{fig:"}),
     i(4),
     t({"}", "\\end{figure}"})
   }
