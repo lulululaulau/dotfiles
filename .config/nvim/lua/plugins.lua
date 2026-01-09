@@ -40,6 +40,7 @@ Plug('f-person/git-blame.nvim')
 Plug('windwp/nvim-autopairs')
 Plug('tpope/vim-fugitive')
 Plug('girishji/bufline.vim')
+Plug('lewis6991/gitsigns.nvim')
 
 
 vim.call('plug#end')
