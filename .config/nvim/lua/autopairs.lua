@@ -13,6 +13,7 @@ npairs.setup({
 })
 
 npairs.add_rule(Rule("\\[", "\\]", {"tex", "latex"}))
+npairs.add_rule(Rule("\\{", "\\}", {"tex", "latex"}))
 npairs.add_rule(Rule("$", "$", "tex")
    :with_move(function(opts)
        return opts.next_char == opts.char
