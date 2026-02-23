@@ -23,7 +23,7 @@ if [ $RUNNING -eq 0 ] && [ $STOPPED -eq 1 ]; then
   LABEL=$(echo ${LABEL} | sed -e "s/’/'/g")
   LABEL=$(echo ${LABEL} | sed -e "s/　/ /g")
   if (( $(echo $LABEL | wc -c) > 40 )); then
-    if (echo ${LABEL} | grep -q ' $'); then
+    if (echo ${LABEL} | head -c 36 | grep -q ' $'); then
       LABEL="$(echo $LABEL | head -c 36)..."
     else
       LABEL="$(echo $LABEL | head -c 36) ..."
