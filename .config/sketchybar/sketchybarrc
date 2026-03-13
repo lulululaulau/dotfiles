@@ -18,6 +18,20 @@ sketchybar --add item battery right \
     --set battery script="$PLUGINDIR/battery.sh" \
                   update_freq=60
 
+sketchybar --add item weather right \
+    --set weather script="$PLUGINDIR/weather.sh" \
+                  update_freq=600 \
+                  click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
+                  popup.height=22 \
+                  popup.background.color=0x9015191e \
+                  popup.background.border_width=1 \
+                  popup.background.border_color=0xfff2d2d4 \
+                  popup.background.corner_radius=9 \
+
+sketchybar --add item weatherDetailed popup.weather \
+    --set weatherDetailed script="$PLUGINDIR/weatherDetailed.sh" \
+                          update_freq=600
+
 sketchybar --add event windowFlagChanged
 
 sketchybar --add item windowFlag right \
