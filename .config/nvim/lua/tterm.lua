@@ -10,3 +10,13 @@ end)
 vim.keymap.set("n", "<leader>fc", function ()
   require("toggleterm").toggle(vim.v.count,0,"det_dir","float")
 end)
+
+require("toggleterm-manager").setup{
+
+}
+
+vim.keymap.set("n", "<leader>ft", function ()
+  require("toggleterm-manager").open({
+    preview = true
+  })
+end)

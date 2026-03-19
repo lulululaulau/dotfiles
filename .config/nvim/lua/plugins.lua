@@ -42,6 +42,7 @@ Plug('tpope/vim-fugitive')
 Plug('girishji/bufline.vim')
 Plug('lewis6991/gitsigns.nvim')
 Plug('petRUShka/vim-sage')
+Plug('ryanmsnyder/toggleterm-manager.nvim')
 
 
 vim.call('plug#end')
