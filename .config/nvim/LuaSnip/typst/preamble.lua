@@ -92,7 +92,7 @@ s({trig = "setup"},
       "#import \"@local/lulu:1.0.0\": *",
       "",
       "#show: lulu.with(",
-      " \title: ["
+      "\ttitle: ["
     }),
     i(1),
     t({
