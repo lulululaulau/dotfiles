@@ -11,3 +11,5 @@ vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 vim.keymap.set("n", "H", ":bp<CR>")
 vim.keymap.set("n", "L", ":bn<CR>")
 
+vim.keymap.set("n", "<leader>K", ":lua vim.diagnostic.open_float()<CR>")
+
