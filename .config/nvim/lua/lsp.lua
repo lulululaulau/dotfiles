@@ -28,9 +28,28 @@ vim.lsp.config('basedpyright', {
   capabilities = capabilities
 })
 
+vim.env.JAVA_HOME = "/opt/homebrew/Cellar/openjdk@21/21.0.9/libexec/openjdk.jdk/Contents/Home/"
 vim.lsp.config('jdtls', {
+  -- cmd = {
+  --   "jdtls",
+  --   "--java-executable",
+  --   "/opt/homebrew/Cellar/openjdk@21/21.0.9/libexec/openjdk.jdk/Contents/Home/bin/java",
+  -- },
   settings = {
     java = {
+      home = "/opt/homebrew/Cellar/openjdk@21/21.0.9/libexec/openjdk.jdk/Contents/Home/",
+      configuration= {
+        runtimes = {
+          {
+            name = "JavaSE-21",
+            path = "/opt/homebrew/opt/openjdk@21/"
+          },
+          {
+            name = "JavaSE-17",
+            path = "/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/"
+          }
+        }
+      }
     },
   },
 })
@@ -98,7 +117,7 @@ vim.api.nvim_create_autocmd("LspAttach", {
 })
 
 vim.diagnostic.config({virtual_text = true})
-vim.lsp.set_log_level("off")
+vim.lsp.set_log_level("error")
 
 vim.lsp.enable('clangd')
 vim.lsp.enable('texlab')
