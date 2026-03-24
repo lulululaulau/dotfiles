@@ -1,7 +1,7 @@
 #!/bin/bash
 # sketchybar --set $NAME label="$(curl http://wttr.in/\?format\="%c%C+%t(%f)")"
 # sketchybar --set $NAME label="$(curl http://wttr.in/\?format\="%c")"
-weatherData=$(curl http://wttr.in/\?format\="%c\n%C\n%t\n%f\n")
+weatherData=$(curl http://wttr.in/\?u\&format\="%c\n%C\n%t\n%f\n")
 IFS=$'\n' read -rd '' -a weather <<<"$weatherData"
 
 weatherIcon=${weather[0]}
