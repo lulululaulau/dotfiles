@@ -31,7 +31,6 @@ sketchybar --add item weather right \
                   popup.background.color=0x9015191e \
                   popup.background.border_width=1 \
                   popup.background.corner_radius=9
-                  # popup.background.border_color=0xfff2d2d4 \
 
 sketchybar --add item weatherDetailed popup.weather \
     --set weatherDetailed script="$PLUGINDIR/weatherDetailed.sh" \
@@ -55,7 +54,6 @@ sketchybar --add item spotifyVol q \
                      popup.background.border_width=1 \
                      popup.background.corner_radius=9 \
     --subscribe spotifyVol spotify_vol
-# popup.background.border_color=0xfff2d2d4 \
 
 sketchybar --add slider spotifyVolSlider popup.spotifyVol 100 \
     --set spotifyVolSlider click_script="$PLUGINDIR/spotifySetVol.sh" \
@@ -63,9 +61,7 @@ sketchybar --add slider spotifyVolSlider popup.spotifyVol 100 \
                            update_freq=60 \
                            slider.percentage="$(osascript -e 'tell application "Spotify" to sound volume as integer')" \
                            slider.knob="" \
-                           slider.knob.color=0xfff2d2d4 \
-                           slider.highlight_color=0xfff2d2d4 \
-                           background.color=0xfff2d2d4 \
+                           background.color=${primary_color} \
                            background.height=1
 
 sketchybar --add item spotifyNext q \
@@ -106,7 +102,6 @@ sketchybar --add item calEvent1 e \
                   popup.background.border_width=1 \
                   popup.background.corner_radius=9 \
     --subscribe calEvent1 reloadCalendar
-# popup.background.border_color=0xfff2d2d4 \
 
 calSubitem=(
   update_freq=0
