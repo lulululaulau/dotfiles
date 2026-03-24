@@ -1,15 +1,15 @@
-yabai -m signal --add event=dock_did_restart action="sudo yabai --load-sa"
-sudo yabai --load-sa
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m signal --add event=dock_did_restart action="sudo /Users/llau/Documents/Personal/Compsci/yabai/bin/yabai --load-sa"
+sudo /Users/llau/Documents/Personal/Compsci/yabai/bin/yabai --load-sa
 
-yabai -m config layout bsp
-#yabai -m config top_padding    5
-yabai -m config bottom_padding 10
-yabai -m config left_padding   10
-yabai -m config right_padding  10
-yabai -m config window_gap     10
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config layout bsp
+#/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config top_padding    5
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config bottom_padding 10
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config left_padding   10
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config right_padding  10
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config window_gap     10
 
 # change to all:x:0 for reducing top by x to give space to sketchybar
-yabai -m config external_bar all:46:0
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config external_bar all:46:0
 
-yabai -m config mouse_action1 resize
-yabai -m config mouse_action2 move
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config mouse_action1 resize
+/Users/llau/Documents/Personal/Compsci/yabai/bin/yabai -m config mouse_action2 move
