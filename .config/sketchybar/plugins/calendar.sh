@@ -23,10 +23,10 @@ if [ ${eventnumber} -gt ${numEvents} ]; then
   fi
 else
   if ( echo ${event} | cut -c11- | grep -q -e "^T" ) ; then
-    datetime=$(gdate -d "$(echo ${event} | head -c 25)" +"%b %-d %-H:%M")
+    datetime=$(gdate -d "$(echo ${event} | head -c 25)" +"%b %d %-H:%M")
     summary=$(echo ${event} | cut -c27-)
   else
-    datetime=$(gdate -d "$(echo ${event} | head -c 10)" +"%b %-d")
+    datetime=$(gdate -d "$(echo ${event} | head -c 10)" +"%b %d")
     summary=$(echo ${event} | cut -c12-)
   fi
   LABEL="${datetime} ${summary}"
