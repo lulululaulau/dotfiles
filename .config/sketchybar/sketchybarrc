@@ -1,13 +1,18 @@
+source ~/.cache/wal/colors.sh
+primary_color="0xFF$(echo ${color13} | tail -c 7)"
 PLUGINDIR="~/.config/sketchybar/plugins"
 sketchybar --bar position=top height=24 color=0x9015191e blur_radius=15 \
-                 border_color=0xfff2d2d4 border_width=1 \
+                 border_color=${primary_color} border_width=1 \
                  margin=11 y_offset=11 corner_radius=9
 sketchybar --default icon.font="Hack Nerd Font:Bold:14.0" \
     background.height=21 \
     background.padding_left=4 \
     background.padding_right=4 \
-    label.color=0xfff2d2d4 \
-    icon.color=0xfff2d2d4
+    label.color=${primary_color} \
+    icon.color=${primary_color} \
+    popup.background.border_color=${primary_color} \
+    slider.knob.color=${primary_color} \
+    slider.highlight_color=${primary_color}
 
 sketchybar --add item clock right \
     --set clock script="$PLUGINDIR/clock.sh" \
@@ -25,8 +30,8 @@ sketchybar --add item weather right \
                   popup.height=22 \
                   popup.background.color=0x9015191e \
                   popup.background.border_width=1 \
-                  popup.background.border_color=0xfff2d2d4 \
-                  popup.background.corner_radius=9 \
+                  popup.background.corner_radius=9
+                  # popup.background.border_color=0xfff2d2d4 \
 
 sketchybar --add item weatherDetailed popup.weather \
     --set weatherDetailed script="$PLUGINDIR/weatherDetailed.sh" \
@@ -48,9 +53,9 @@ sketchybar --add item spotifyVol q \
                      popup.height=22 \
                      popup.background.color=0x9015191e \
                      popup.background.border_width=1 \
-                     popup.background.border_color=0xfff2d2d4 \
                      popup.background.corner_radius=9 \
     --subscribe spotifyVol spotify_vol
+# popup.background.border_color=0xfff2d2d4 \
 
 sketchybar --add slider spotifyVolSlider popup.spotifyVol 100 \
     --set spotifyVolSlider click_script="$PLUGINDIR/spotifySetVol.sh" \
@@ -99,9 +104,9 @@ sketchybar --add item calEvent1 e \
                   popup.height=22 \
                   popup.background.color=0xb8000000 \
                   popup.background.border_width=1 \
-                  popup.background.border_color=0xfff2d2d4 \
                   popup.background.corner_radius=9 \
     --subscribe calEvent1 reloadCalendar
+# popup.background.border_color=0xfff2d2d4 \
 
 calSubitem=(
   update_freq=0
