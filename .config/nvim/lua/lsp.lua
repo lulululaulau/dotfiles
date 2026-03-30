@@ -117,7 +117,7 @@ vim.api.nvim_create_autocmd("LspAttach", {
 })
 
 vim.diagnostic.config({virtual_text = true})
-vim.lsp.set_log_level("error")
+vim.lsp.log.set_level("error")
 
 vim.lsp.enable('clangd')
 vim.lsp.enable('texlab')

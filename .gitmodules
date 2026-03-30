@@ -1,3 +1,6 @@
 [submodule ".config/nvim/start/texpresso.vim"]
 	path = .config/nvim/start/texpresso.vim
 	url = https://github.com/let-def/texpresso.vim.git
+[submodule ".qutebrowser/pywalQute"]
+	path = .qutebrowser/pywalQute
+	url = https://github.com/makman12/pywalQute.git
