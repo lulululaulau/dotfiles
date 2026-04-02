@@ -109,7 +109,7 @@ s({trig = "setup"},
       "\",",
       "\tdate: ["
     }),
-    i(4),
+    i(4, "#datetime.today().display()"),
     t({
       "]",
       ")",
