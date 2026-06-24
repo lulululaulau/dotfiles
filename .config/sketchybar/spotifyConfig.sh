@@ -61,7 +61,7 @@ sketchybar --add item spotifyAlbum popup.spotifyIndicator \
 #                       drawing=off \
 #                       click_script="osascript -e 'tell application \"Spotify\" to next track'"
 
-sketchybar --add slider spotifyVolSlider popup.spotifyIndicator 256 \
+sketchybar --add slider spotifyVolSlider popup.spotifyIndicator 253 \
   --set spotifyVolSlider click_script="$PLUGINDIR/spotifySetVol.sh" \
   script="sketchybar -m --set spotifyVolSlider slider.percentage=\"$(osascript -e 'tell application "Spotify" to sound volume as integer')\"" \
   update_freq=60 \
