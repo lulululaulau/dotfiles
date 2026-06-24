@@ -1,9 +1,12 @@
-sketchybar --add event spotify_change "com.spotify.client.PlaybackStateChanged"
+sketchybar --add event spotify_report_change "com.spotify.client.PlaybackStateChanged"
+sketchybar --add event spotify_change
 
 sketchybar --add item spotifyShowHide q \
     --set spotifyShowHide label="" \
-    drawing=on \
-    click_script="$PLUGINDIR/spotifyShowHide.sh"
+                          drawing=on \
+                          script="$PLUGINDIR/spotifyEventHandler.sh" \
+                          click_script="$PLUGINDIR/spotifyShowHide.sh" \
+    --subscribe spotifyShowHide spotify_report_change
 
 sketchybar --add item spotifyNext q \
     --set spotifyNext label="󰒭" \
