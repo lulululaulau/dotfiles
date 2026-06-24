@@ -2,5 +2,4 @@
 sketchybar --set spotifyNext drawing=toggle \
   --set spotifyPlayPause drawing=toggle \
   --set spotifyIndicator drawing=toggle \
-  --set spotifyShowHide drawing=toggle \
   --set spotifyVol drawing=toggle

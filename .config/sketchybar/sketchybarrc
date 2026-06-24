@@ -45,6 +45,11 @@ sketchybar --add item windowFlag right \
 sketchybar --add event spotify_change "com.spotify.client.PlaybackStateChanged"
 sketchybar --add event spotify_vol
 
+sketchybar --add item spotifyShowHide q \
+    --set spotifyShowHide label="" \
+    drawing=on \
+    click_script="$PLUGINDIR/spotifyShowHide.sh"
+
 sketchybar --add item spotifyVol q \
     --set spotifyVol script="$PLUGINDIR/spotifyVol.sh" \
                      click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
@@ -76,14 +81,8 @@ sketchybar --add item spotifyPlayPause q \
 
 sketchybar --add item spotifyIndicator q \
     --set spotifyIndicator script="$PLUGINDIR/spotifyIndicator.sh" \
-                          click_script="$PLUGINDIR/spotifyShowHide.sh" \
                           update_freq=60 \
     --subscribe spotifyIndicator spotify_change
-
-sketchybar --add item spotifyShowHide q \
-    --set spotifyShowHide label="" \
-                          drawing=off \
-                          click_script="$PLUGINDIR/spotifyShowHide.sh"
 
 sketchybar --add event calendarLoaded
 sketchybar --add event reloadCalendar
