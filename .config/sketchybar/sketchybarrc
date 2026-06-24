@@ -1,18 +1,20 @@
 source ~/.cache/wal/colors.sh
 primary_color="0xFF$(echo ${color13} | tail -c 7)"
+background_color="0xde$(echo ${background} | tail -c 7)"
 PLUGINDIR="~/.config/sketchybar/plugins"
-sketchybar --bar position=top height=24 color=0x9015191e blur_radius=15 \
+sketchybar --bar position=top height=24 color=${background_color} blur_radius=15 \
                  border_color=${primary_color} border_width=1 \
-                 margin=11 y_offset=11 corner_radius=9
+                 margin=10 y_offset=11 corner_radius=9
 sketchybar --default icon.font="Hack Nerd Font:Bold:14.0" \
     background.height=21 \
     background.padding_left=4 \
     background.padding_right=4 \
     label.color=${primary_color} \
     icon.color=${primary_color} \
-    popup.background.border_color=${primary_color} \
     popup.height=22 \
-    popup.background.color=0x9015191e \
+    popup.blur_radius=15 \
+    popup.background.border_color=${primary_color} \
+    popup.background.color=${background_color} \
     popup.background.border_width=1 \
     popup.background.corner_radius=9 \
     slider.knob.color=${primary_color} \

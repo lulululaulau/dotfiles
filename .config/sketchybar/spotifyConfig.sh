@@ -31,7 +31,7 @@ sketchybar --add item spotifyImage popup.spotifyIndicator \
     --set spotifyImage script="$PLUGINDIR/spotifyImage.sh" \
                       click_script="$PLUGINDIR/spotifyImage.sh" \
                       update_freq=0 \
-                      y_offset=-4 \
+                      y_offset=-3 \
                       background.drawing=on \
                       background.image="$PLUGINDIR/image.jpg" \
                       background.image.drawing=on \
