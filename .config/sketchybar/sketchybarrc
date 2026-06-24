@@ -11,6 +11,10 @@ sketchybar --default icon.font="Hack Nerd Font:Bold:14.0" \
     label.color=${primary_color} \
     icon.color=${primary_color} \
     popup.background.border_color=${primary_color} \
+    popup.height=22 \
+    popup.background.color=0x9015191e \
+    popup.background.border_width=1 \
+    popup.background.corner_radius=9 \
     slider.knob.color=${primary_color} \
     slider.highlight_color=${primary_color}
 
@@ -26,11 +30,7 @@ sketchybar --add item battery right \
 sketchybar --add item weather right \
     --set weather script="$PLUGINDIR/weather.sh" \
                   update_freq=600 \
-                  click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
-                  popup.height=22 \
-                  popup.background.color=0x9015191e \
-                  popup.background.border_width=1 \
-                  popup.background.corner_radius=9
+                  click_script="sketchybar -m --set \$NAME popup.drawing=toggle"
 
 sketchybar --add item weatherDetailed popup.weather \
     --set weatherDetailed script="$PLUGINDIR/weatherDetailed.sh" \
@@ -54,10 +54,6 @@ sketchybar --add item spotifyVol q \
     --set spotifyVol script="$PLUGINDIR/spotifyVol.sh" \
                      click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
                      update_freq=60 \
-                     popup.height=22 \
-                     popup.background.color=0x9015191e \
-                     popup.background.border_width=1 \
-                     popup.background.corner_radius=9 \
     --subscribe spotifyVol spotify_vol
 
 sketchybar --add slider spotifyVolSlider popup.spotifyVol 100 \
@@ -96,10 +92,6 @@ sketchybar --add item calEvent1 e \
                   click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
                   update_freq=3600 \
                   popup.y_offset=-24 \
-                  popup.height=22 \
-                  popup.background.color=0xb8000000 \
-                  popup.background.border_width=1 \
-                  popup.background.corner_radius=9 \
     --subscribe calEvent1 reloadCalendar
 
 calSubitem=(
