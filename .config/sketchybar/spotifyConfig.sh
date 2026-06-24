@@ -1,25 +1,9 @@
 sketchybar --add event spotify_change "com.spotify.client.PlaybackStateChanged"
-sketchybar --add event spotify_vol
 
 sketchybar --add item spotifyShowHide q \
     --set spotifyShowHide label="" \
     drawing=on \
     click_script="$PLUGINDIR/spotifyShowHide.sh"
-
-sketchybar --add item spotifyVol q \
-    --set spotifyVol script="$PLUGINDIR/spotifyVol.sh" \
-                     click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
-                     update_freq=60 \
-    --subscribe spotifyVol spotify_vol
-
-sketchybar --add slider spotifyVolSlider popup.spotifyVol 100 \
-    --set spotifyVolSlider click_script="$PLUGINDIR/spotifySetVol.sh" \
-                           script="sketchybar -m --set spotifyVolSlider slider.percentage=\"$(osascript -e 'tell application "Spotify" to sound volume as integer')\"" \
-                           update_freq=60 \
-                           slider.percentage="$(osascript -e 'tell application "Spotify" to sound volume as integer')" \
-                           slider.knob="" \
-                           background.color=${primary_color} \
-                           background.height=1
 
 sketchybar --add item spotifyNext q \
     --set spotifyNext label="󰒭" \
@@ -76,5 +60,14 @@ sketchybar --add item spotifyAlbum popup.spotifyIndicator \
 #     --set spotifyNextClone label="󰒭" \
 #                       drawing=off \
 #                       click_script="osascript -e 'tell application \"Spotify\" to next track'"
+
+sketchybar --add slider spotifyVolSlider popup.spotifyIndicator 256 \
+  --set spotifyVolSlider click_script="$PLUGINDIR/spotifySetVol.sh" \
+  script="sketchybar -m --set spotifyVolSlider slider.percentage=\"$(osascript -e 'tell application "Spotify" to sound volume as integer')\"" \
+  update_freq=60 \
+  slider.percentage="$(osascript -e 'tell application "Spotify" to sound volume as integer')" \
+  slider.knob="" \
+  background.color=${primary_color} \
+  background.height=1
 
 
