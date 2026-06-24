@@ -1,4 +1,7 @@
 #!/bin/bash
+
+
+
 if ( \
   curl $(osascript -e 'tell application "Spotify" to get artwork url of current track') \
   --output ~/.config/sketchybar/plugins/image.jpg
