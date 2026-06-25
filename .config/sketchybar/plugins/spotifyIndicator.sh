@@ -15,11 +15,7 @@ TRACK=$(osascript -e 'tell application "Spotify" to get name of current track')
 ARTIST=$(osascript -e 'tell application "Spotify" to get artist of current track')
 ALBUM=$(osascript -e 'tell application "Spotify" to get album of current track')
 if [ $RUNNING -eq 0 ] && [ $STOPPED -eq 1 ]; then
-  if [ "$ARTIST" == "" ]; then
-    LABEL="$ALBUM - $TRACK"
-  else
-    LABEL="$ARTIST - $TRACK"
-  fi
+  LABEL="${TRACK}"
   LABEL=$(echo ${LABEL} | sed -e "s/’/'/g")
   LABEL=$(echo ${LABEL} | sed -e "s/　/ /g")
   # if (( $(echo $LABEL | wc -c) > 40 )); then
