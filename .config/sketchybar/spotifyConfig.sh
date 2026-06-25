@@ -16,6 +16,8 @@ sketchybar --add item spotifyPlayPause q \
     --set spotifyPlayPause script="$PLUGINDIR/spotifyPlayPause.sh" \
                           click_script="osascript -e 'tell application \"Spotify\" to playpause'" \
                           update_freq=60 \
+                          label.align=center \
+                          label.width=9 \
     --subscribe spotifyPlayPause spotify_change
 
 sketchybar --add item spotifyIndicator q \
