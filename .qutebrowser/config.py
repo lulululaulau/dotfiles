@@ -1,5 +1,6 @@
 from qutebrowser.api import interceptor
 import pywalQute.draw
+from darkmodeexceptions import darkmodeexceptions
 
 
 config.load_autoconfig(False)
@@ -40,17 +41,6 @@ config.bind('tdu', 'config-cycle -t -u {url} colors.webpage.darkmode.enabled ;; 
 config.bind('tdH', 'config-cycle -t -u *://*.{url.host}/* colors.webpage.darkmode.enabled ;; reload')
 
 c.colors.webpage.darkmode.enabled=True
-darkmodeexceptions = [
-        '*://www.overleaf.com/project/*',
-        '*://mail.google.com/*',
-        '*://docs.google.com/*',
-        '*://math216.wordpress.com/*',
-        '*://www.desmos.com/calculator/*',
-        '*://dumu.math.duke.edu/dumu/py/*',
-        '*://online-go.com/*',
-        '*://discord.com/*',
-        '*://musescore.com/*'
-        ]
 for site in darkmodeexceptions:
     config.set("colors.webpage.darkmode.enabled", False, site)
 c.colors.webpage.darkmode.policy.images="never"
