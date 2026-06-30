@@ -20,4 +20,5 @@ require('banMathLazy')
 require('ts')
 require('undotree')
 require('autopairs')
+require('clip')
 

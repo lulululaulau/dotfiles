@@ -44,6 +44,7 @@ Plug('girishji/bufline.vim')
 Plug('lewis6991/gitsigns.nvim')
 Plug('petRUShka/vim-sage')
 Plug('ryanmsnyder/toggleterm-manager.nvim')
+Plug('AckslD/nvim-neoclip.lua')
 
 
 vim.call('plug#end')
