@@ -23,7 +23,3 @@ else
   sketchybar --set spotifyVolSlider drawing=on
 fi
 
-sketchybar --set spotifyIndicator scroll_texts=off
-sketchybar --set spotifyIndicator scroll_texts=on
-sketchybar --set spotifyAlbum scroll_texts=off
-sketchybar --set spotifyAlbum scroll_texts=on
