@@ -1,4 +1,6 @@
 from qutebrowser.api import interceptor
+import pywalQute.draw
+
 
 config.load_autoconfig(False)
 c.aliases["ww"] = "session-save --only-active-window"
@@ -66,3 +68,12 @@ def filter_youtube(info: interceptor.Request):
 
 
 interceptor.register(filter_youtube)
+
+pywalQute.draw.color(c, {
+    'spacing' : {
+        'vertical': 1,
+        'horizontal': 5
+    }
+})
+
+
