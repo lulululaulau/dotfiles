@@ -1,6 +1,3 @@
-require('onedark').setup {
-  style = 'warm',
-  transparent = true,
-  term_colors = true
-}
-require('onedark').load()
+vim.api.nvim_command('colorscheme wal')
+vim.api.nvim_command('set notermguicolors')
+
