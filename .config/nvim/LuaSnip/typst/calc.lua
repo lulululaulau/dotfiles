@@ -45,7 +45,19 @@ s({trig = "eval"},
 
 s({trig = "int"},
   {
-    t("int_("),
+    t("integral_("),
+    i(1),
+    t(")^("),
+    i(2),
+    t(") "),
+    i(3),
+    t(" #h(0.1cm) d ")
+  }
+),
+
+s({trig = "cont"},
+  {
+    t("integral.cont_("),
     i(1),
     t(")^("),
     i(2),
@@ -57,7 +69,7 @@ s({trig = "int"},
 
 s({trig = "iint"},
   {
-    t("iint_("),
+    t("integral.double_("),
     i(1),
     t(") "),
     i(2),
