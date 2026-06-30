@@ -11,11 +11,32 @@ macro index 2 "<enter-command>unmailboxes *<enter><enter-command>source ~/.confi
 macro index 1 "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lewislau121<enter><sync-mailbox><change-folder>!<enter>"
 # macro index <f3> "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lulululaulau228<enter><sync-mailbox><change-folder>!<enter>"
 
-
+set edit_headers
+set alias_file="~/.config/neomutt/contacts"
+set alias_format="%a %N <%E>"
+set alias_sort=alias
+set ask_cc
+set attribution_intro="On %d, %n <%a> wrote"
+set empty_subject="Re: No Subject"
+set abort_noattach = ask-yes
+set mime_forward = yes
+set mime_forward_rest = yes
+# set use_threads = yes
+set sort = threads
+set sort_aux = reverse-last-date-received
+set strict_threads = yes
+set nm_default_url = "notmuch:///Users/llau/.local/share/email"
+set forward_format = "Fwd: %s"
+set pager_format = "-%Z- %C/%m: %-20.20n   %s%*  -- %[%a %b %d %T] (%P)"
 
 # bind index G imap-fetch-mail
 macro index G "<shell-escape>mbsync -a; notmuch new<enter>"
 macro index \Cf "<enter-command>unset wait_key<enter><shell-escape>read -p 'Enter a search term to find with notmuch: ' x; echo \$x >~/.cache/mutt_terms<enter><limit>~i \"\`notmuch search --output=messages \$(cat ~/.cache/mutt_terms) | head -n 600 | perl -le '@a=<>;s/\^id:// for@a;$,=\"|\";print@a' | perl -le '@a=<>; chomp@a; s/\\+/\\\\+/ for@a;print@a' \`\"<enter>" "show only messages matching a notmuch pattern"
+# macro index D "delete message"
+# macro index d "<enter-command>notmuch tag -inbox +deleted id:%m<enter>" "delete message"
+bind index E entire-thread
+macro index < "<change-folder>+INBOX<enter>"
+
 
 set editor = "nvim"
 
