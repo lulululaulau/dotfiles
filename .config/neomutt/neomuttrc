@@ -11,6 +11,7 @@ macro index 2 "<enter-command>unmailboxes *<enter><enter-command>source ~/.confi
 macro index 1 "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lewislau121<enter><sync-mailbox><change-folder>!<enter>"
 # macro index <f3> "<enter-command>unmailboxes *<enter><enter-command>source ~/.config/neomutt/lulululaulau228<enter><sync-mailbox><change-folder>!<enter>"
 
+set record=""
 set edit_headers
 set alias_file="~/.config/neomutt/contacts"
 set alias_format="%a %N <%E>"
