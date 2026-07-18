@@ -100,6 +100,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+(cat ~/.cache/wal/sequences &)
+
 alias python="python3"
 alias pip="pip3"
 # fzf Documents
