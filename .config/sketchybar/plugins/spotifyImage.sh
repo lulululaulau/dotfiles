@@ -6,7 +6,7 @@ if ( \
 ); then
   sketchybar -m --set $NAME background.image="~/.config/sketchybar/plugins/image.jpg"
 else
-  sketchybar -m --set $NAME background.image="~/.config/sketchybar/plugins/defaultIimage.jpg"
+  sketchybar -m --set $NAME background.image="~/.config/sketchybar/plugins/defaultImage.jpg"
   # cp ~/.config/sketchybar/plugins/defaultImage.jpg ~/.config/sketchybar/plugins/image.jpg
 fi
 
