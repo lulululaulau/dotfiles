@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-target=$(defaults read com.apple.screencapture target)
+target=$(defaults read com.apple.screencapture "target-screenshot")
 
 if [[ "${target}" == "clipboard" ]]; then
   sketchybar --set $NAME label="clipboard"
