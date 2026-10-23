@@ -7,13 +7,13 @@ sketchybar --add item weather right \
                   popup.align=right
 
 sketchybar --add item weatherLocation popup.weather \
-    --set weatherLocation script="sketchybar -m --set \$NAME label=\"$(cat ~/.config/sketchybar/plugins/weatherData | sed '1q;d')\"" \
+    --set weatherLocation script="$PLUGINDIR/weather.sh 1" \
     --subscribe weatherLocation weatherUpdated
 
 sketchybar --add item weatherCondition popup.weather \
-    --set weatherCondition script="sketchybar -m --set \$NAME label=\"$(cat ~/.config/sketchybar/plugins/weatherData | sed '2q;d')\"" \
+    --set weatherCondition script="$PLUGINDIR/weather.sh 2" \
     --subscribe weatherCondition weatherUpdated
 
 sketchybar --add item weatherTemp popup.weather \
-    --set weatherTemp script="sketchybar -m --set \$NAME label=\"$(cat ~/.config/sketchybar/plugins/weatherData | sed '3q;d')\"" \
+    --set weatherTemp script="$PLUGINDIR/weather.sh 3" \
     --subscribe weatherTemp weatherUpdated
