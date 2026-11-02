@@ -17,3 +17,7 @@ sketchybar --add item weatherCondition popup.weather \
 sketchybar --add item weatherTemp popup.weather \
     --set weatherTemp script="$PLUGINDIR/weather.sh 3" \
     --subscribe weatherTemp weatherUpdated
+
+sketchybar --add item weatherHumidity popup.weather \
+    --set weatherHumidity script="$PLUGINDIR/weather.sh 4" \
+    --subscribe weatherHumidity weatherUpdated

@@ -2,6 +2,7 @@ source ~/.cache/wal/colors.sh
 primary_color="0xFF$(echo ${color13} | tail -c 7)"
 background_color="0xde$(echo ${background} | tail -c 7)"
 PLUGINDIR="~/.config/sketchybar/plugins"
+
 sketchybar --bar position=top height=24 color=${background_color} blur_radius=15 \
                  border_color=${primary_color} border_width=1 \
                  margin=10 y_offset=11 corner_radius=9
