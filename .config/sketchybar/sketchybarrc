@@ -32,12 +32,6 @@ sketchybar --add item battery right \
 
 source ~/.config/sketchybar/weatherConfig.sh
 
-sketchybar --add event windowFlagChanged
-
-sketchybar --add item windowFlag right \
-    --set windowFlag script="$PLUGINDIR/windowFlag.sh" \
-    --subscribe windowFlag windowFlagChanged
-
 source ~/.config/sketchybar/spotifyConfig.sh
 
 sketchybar --add event calendarLoaded
