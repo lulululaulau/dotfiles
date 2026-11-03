@@ -1,7 +1,4 @@
 #!/bin/bash
-sketchybar --set spotifyNext drawing=toggle \
-  --set spotifyPlayPause drawing=toggle \
-  --set spotifyIndicator drawing=toggle \
 
 if ( \
   sketchybar --query spotifyIndicator | \
@@ -13,13 +10,9 @@ if ( \
   grep "drawing" | \
   grep -q -e "on" \
 ); then
-  sketchybar --set spotifyImage drawing=off
-  sketchybar --set spotifyAlbum drawing=off
-  sketchybar --set spotifyVolSlider drawing=off
   sketchybar --set spotifyIndicator popup.drawing=off
-else
-  sketchybar --set spotifyImage drawing=on
-  sketchybar --set spotifyAlbum drawing=on
-  sketchybar --set spotifyVolSlider drawing=on
 fi
 
+sketchybar --set spotifyNext drawing=toggle \
+  --set spotifyPlayPause drawing=toggle \
+  --set spotifyIndicator drawing=toggle \
