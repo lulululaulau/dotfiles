@@ -2,7 +2,7 @@ sketchybar --add event weatherUpdated
 
 sketchybar --add item weather right \
     --set weather script="$PLUGINDIR/weather.sh" \
-                  update_freq=600 \
+                  update_freq=300 \
                   click_script="sketchybar -m --set \$NAME popup.drawing=toggle" \
                   popup.align=right
 
